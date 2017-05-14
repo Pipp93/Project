@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Suisse</title>
+<link rel="stylesheet" type="text/css" href="style_project.css"/>
+<script type="text/javascript" src="../d3/d3.v4.js"></script>
+
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="menu.css"/>
+<div class="intestazione">
+<a href="http://www.unifr.ch/home/fr.html"><img src="unifr_logo.png" class="unifr" ></a> <a href="https://diuf.unifr.ch/main/fr" class="reference"><img src="logo_info.png" class="info_2"></a>
+<div id="languages">
+		<a><img id="drapeau" src="Deutschland.png"></a>
+		<a href="Home_Page.html"><img id="drapeau" src="France.png"></a>
+		<a><img id="drapeau" src="italian.png"></a>
+</div>
+</div>
+
+<div class="menu">
+	<br>
+		<a href="Home_Page.html"><button class="menu_not_divise"><img src="home_logo.png">   Home</button></a>
+		<div class="dropdown">
+		<button id="butt_vis" class="dropdown">Visualisation</button>
+	  	<div class="dropdown-content">
+	    	<a href="Suisse.html">Suisse</a>
+	    	<a href="Regions.html">R&eacute;gions linguistiques</a>
+	    	<a href="Project.html">Cantons</a>
+	  	</div>
+		</div>
+		<a href="Source.html"><button class="menu_not_divise">Sources</button></a>
+
+	</div>
+
+	<h1 class="title"> Ch&ocirc;mage en Suisse</h1>
+
+<h2 class="title_ch">Evolution du taux de ch&ocirc;mage en Suisse et dans l'Union Europ&eacute;enne de 2005 &agrave; 2016</h2>
+
+	<div id="buttons">
+	<button id="button1" class="butt2">Union européenne</button>
+	<br> <br>
+	<button id="button2" class="butt1">Suisse</button>
+
+
+</div>
+
+<div id="tooltip2" class="hidden"></div>
+<script>
+var margin = {top: 30, right: 20, bottom: 30, left: 50},
+    width = 800 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
+
+var x = d3.scaleLinear()
+				.range([0, width]);
+var y = d3.scaleLinear()
+				.range([height, 0]);
+
+
+var xAxis = d3.axisBottom(x).ticks(13).tickFormat(d3.format("^20")).tickSizeInner(-height).tickSizeOuter(0);
+
+var yAxis = d3.axisLeft(y).ticks(10).tickFormat(d3.format("^20")).tickPadding(15).tickSizeInner(-width).tickSizeOuter(0);
+
+
+var valueline = d3.line()
+    .x(function(d) { return x(d.years); })
+    .y(function(d) { return y(d.values_ue); });
+var valueline_2 = d3.line()
+		.x(function(d){return x(d.years);})
+		.y(function (d){return y(d.values);});
+
+
+var svg = d3.select("body")
+    .append("svg")
+		.attr("class", "graph_suisse")
+    .attr("width", "50%")
+    .attr("height","30%")
+                .attr("viewBox", "0 0 " + 1.5*height + " " + width )
+                .attr("preserveAspectRatio","xMidYMid meet")
+    .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+
+
+
+d3.csv("data_suisse.csv", function(error, data) {
+    data.forEach(function(d) {
+        d.years = +d.years;
+        d.values = +d.values;
+				d.values_ue=+d.values_ue;
+    });
+
+
+    x.domain(d3.extent(data, function(d) { return d.years; }));
+    y.domain([0, 1+d3.max(data, function(d) { return Math.max(d.values, d.values_ue); })]);
+
+
+    svg.append("path")
+        .attr("class", "line1")
+        .attr("d", valueline(data));
+
+		svg.append("path")
+		    .attr("class", "line2")
+		    .attr("d", valueline_2(data));
+
+    svg.selectAll("dot")
+        .data(data)
+      .enter().append("circle")
+			  .attr("class", "circle1")
+        .attr("r", 3.5)
+        .attr("cx", function(d) { return x(d.years); })
+        .attr("cy", function(d) { return y(d.values_ue); })
+				.on("mouseover", function(d){
+					var mouseX = Math.round (event.clientX);
+					var mouseY = Math.round (event.clientY);
+					d3.select("#tooltip2")
+						.text("Valeur UE: " + d.values_ue +"%")
+						.style("left", (mouseX -40) + "px")
+						.style("top", (mouseY-30) + "px")
+						.classed("hidden", function() {
+							if (d3.select("#tooltip2").style("display") == "none") {
+								return false
+							}
+							else {
+								return true
+							}
+						})
+					})
+				.on("mouseout", function(d) {
+							d3.select("#tooltip2").classed("hidden", true);
+						});
+
+		svg.selectAll("dot")
+				.data(data)
+				.enter().append("circle")
+				.attr("class", "circle2")
+				.attr("r", 3.5)
+				.attr("cx", function(d) { return x(d.years); })
+				.attr("cy", function(d) { return y(d.values); })
+				.on("mouseover", function(d){
+					var mouseX = Math.round (event.clientX);
+					var mouseY = Math.round (event.clientY);
+					d3.select("#tooltip2")
+						.text("Valeur Suisse: " + d.values+"%")
+						.style("left", (mouseX -40) + "px")
+						.style("top", (mouseY-30) + "px")
+						.classed("hidden", function() {
+							if (d3.select("#tooltip2").style("display") == "none") {
+								return false
+							}
+							else {
+								return true
+							}
+						})
+					})
+
+				.on("mouseout", function(d) {
+						d3.select("#tooltip2").classed("hidden", true);
+					});
+
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+				d3.select("#button2")
+                .on("click", function(d) {
+                    d3.select("path.line2")
+                        .classed("hidingline", function(){
+                            if (d3.select("path.line2").classed("hidingline") == false) {
+                              d3.selectAll("circle.circle2").classed("hidingcircle", true)
+                                return true
+                                }
+                            else {
+                              d3.selectAll("circle.circle2").classed("hidingcircle", false)
+                                return false
+                                }
+                            }
+                          )
+                  }
+                );
+
+        d3.select("#button1")
+        .on("click", function(d) {
+            d3.select("path.line1")
+                .classed("hidingline", function(){
+                    if (d3.select("path.line1").classed("hidingline") == false) {
+                      d3.selectAll("circle.circle1").classed("hidingcircle", true)
+                        return true
+                        }
+                    else {
+                      d3.selectAll("circle.circle1").classed("hidingcircle", false)
+                        return false
+                        }
+                    }
+                  )
+          }
+        )
+
+
+});
+
+</script>
+</body>
+</html>

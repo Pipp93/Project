@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Utilisation des données pour 2016</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <h1>Utilisation des données pour 2016</h1>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script>
+
+            /* 
+            Admettons que nous voulions afficher le nombre de chômeurs absolu et le nombre d'habitants d'un certain nombre de cantons, pour l'année 2016. Nous avons deux jeux de données : (1) un fichier GeoJSON représentant les cantons et (2) un fichier JSON contenant les statistiques sur le chômage. Pour cet exemple, nous allons nous contenter d'un petit tableau représentant deux cantons à la place du GeoJSON entier, mais la logique reste la même.
+            */
+
+            var cantons = [
+                {name:'Fribourg', population: 307461},
+                {name:'Genève', population: 490578}
+            ] // Premier jeu de données
+
+            d3.json('3-json/chomage.json', function (err,data) { // On charge le second jeu de données
+                if(err) throw err;
+
+                cantons.forEach(function(canton){ // Pour chaque entrée dans le premier jeu de données…
+                    for(prop in data[2016]) { // … et pour chaque entrée dans les données de 2016 (prop => propriété de l'objet. En l'occurrence, c'est les cantons) …
+                        if(prop == canton.name) { // … on vérifie que le nom du canton correspond au nom de la propriété.
+                            canton.chomage = data[2016][prop] // Si c'est le cas, on attribue les données de chômage au canton.
+                        }
+                    }
+                })
+
+                console.log(cantons) // Au final, les données de nos deux cantons sont "augmentées" par celles du fichier sur le chômage.
+
+                // On crée alors des paragraphes présentant, par canton, le nombre d'habitants (issu du premier jeu de données) et le nombre de chômeurs (issu du second jeu de données)
+                d3.select('body')
+                  .selectAll('p')
+                  .data(cantons)
+                  .enter()
+                    .append('p')
+                    .text(function (d) {
+                        return d.name + ' : ' + d.population + ' habitants (selon Wikipedia), ' + d.chomage.absolu + ' chômeurs.'
+                    })
+
+                // Finalement, pour créer un tableau à partir d'un objet, voilà comment procéder :
+                var myArray = [];
+                for(prop in data[2016])
+                {
+                    myArray.push({name:prop,values:data[2016][prop]})
+                }
+                console.log(myArray) // => vous avez là un tableau avec tous les cantons et leurs données pour 2016
+
+                /* Pour vos lineCharts, vous allez avoir besoin de créer un tableau contenant les données de toutes les années, pour chaque canton. Il faudra donc (1) créer un nouveau tableau, (2) itérer sur toutes les années (for(prop in data)), (3) récupérer les données en lien avec le canton dont le lineChart doit être affiché (data[prop][canton], où "canton" est une variable reprenant le nom du canton à afficher) et (4) les pousser à l'intérieur du nouveau tableau. */
+            })
+        </script>
+    </body>
+</html>

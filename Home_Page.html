@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Home Page</title>
+
+		<link rel="stylesheet" type="text/css" href="menu.css"/>
+		<style>
+* {box-sizing:border-box}
+
+.mySlides {display:none;}
+
+/* Slideshow container */
+.slideshow-container {
+	position: absolute;
+	top: 150px;
+	left: -20px;
+
+
+
+}
+
+.active {
+	background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 2.5s;
+	animation-name: fade;
+	animation-duration: 2.5s;
+}
+
+@-webkit-keyframes fade {
+	from {opacity: .4}
+	to {opacity: 1}
+}
+
+@keyframes fade {
+	from {opacity: .4}
+	to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+	.text {font-size: 11px}
+}
+
+.set_drapeau{
+
+	width:1600px;
+	height:550px;
+}
+</style>
+</head>
+
+  <body>
+		<link rel="stylesheet" type="text/css" href="style_project.css"/>
+
+<div class="intestazione">
+<a href="http://www.unifr.ch/home/fr.html"><img src="unifr_logo.png" class="unifr" ></a> <a href="https://diuf.unifr.ch/main/fr" class="reference"><img src="logo_info.png" class="info_2"></a>
+<div id="languages">
+		<a><img id="drapeau" src="Deutschland.png"></a>
+		<a href="Home_Page.html"><img id="drapeau" src="France.png"></a>
+		<a><img id="drapeau" src="italian.png"></a>
+</div>
+</div>
+
+<div class="menu">
+	<br>
+		<a href="Home_Page.html"><button class="menu_not_divise"><img src="home_logo.png">   Home</button></a>
+		<div class="dropdown">
+		<button id="butt_vis" class="dropdown">Visualisation</button>
+	  	<div class="dropdown-content">
+	    	<a href="Suisse.html">Suisse</a>
+	    	<a href="Regions.html">R&eacute;gions linguistiques</a>
+	    	<a href="Project.html">Cantons</a>
+	  	</div>
+		</div>
+		<a href="Source.html"><button class="menu_not_divise">Sources</button></a>
+
+	</div>
+
+	<h1 class="title"> Ch&ocirc;mage en Suisse</h1>
+
+	<div class="slideshow-container" >
+			<div class="mySlides fade">
+				<div id="fenetre"> Annexe 1</div>
+				<img class="set_drapeau" src="pic2.png" >
+
+</div>
+
+<div class="mySlides fade">
+<div id="fenetre2"> Annexe 2</div>
+  <img class="set_drapeau" src="pic3.jpg" >
+
+</div>
+
+<div class="mySlides fade">
+
+  <img class="set_drapeau" src="looking_job.png" >
+
+</div>
+
+
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span>
+</div>
+
+	<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex> slides.length) {slideIndex = 1}
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 7000); // Change image every 2 seconds
+}
+
+</script>
+
+</body>
+</html>

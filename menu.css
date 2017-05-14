@@ -1,0 +1,134 @@
+h1.title{
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 530px;
+  font-family: Arial;
+}
+.menu{
+  position: absolute;
+  margin-top: 65px;
+  background-color: white;
+}
+
+.menu_not_divise{
+  background-color: darkblue;
+  color:white;
+  padding:16px;
+  font-size: 16px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+img{
+  width: 15px;
+  height:15px;
+}
+#drapeau{
+  width:25px;
+  height:15px;
+}
+
+#languages{
+  float:right;
+  margin-right: 13px;
+  margin-top: 10px;
+}
+
+.unifr{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 10px;
+  width:320px;
+  height:50px;
+}
+
+.info_2{
+  margin-top: 5px;
+  margin-right: 10px;
+  width:160px;
+  height:60px;
+
+}
+
+#butt_vis{
+  background-color: darkblue;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+
+.intestazione {
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    left: 0;
+    top: 0;
+    background-color: white;
+}
+.reference{
+
+    margin-left: 1150px;
+    margin-bottom: 100px;
+}
+
+#fenetre{
+  position:absolute;
+  margin-left: 900px;
+  margin-top: 350px;
+  width:250px;
+  height:30px;
+  background-color: lightgrey;
+  opacity:0.8;
+  filter:alpha(opacity=30);
+}
+
+#fenetre2{
+  position:absolute;
+  margin-left: 500px;
+  margin-top: 70px;
+  width:350px;
+  height:100px;
+  background-color: lightgrey;
+  opacity:0.9;
+  filter:alpha(opacity=30);
+}

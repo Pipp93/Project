@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+    <meta charset="utf-8">
+    <title>Project ch&ocirc;mage en Suisse</title>
+    <script type="text/javascript" src="../d3/d3.v4.js"></script>
+    <link rel="stylesheet" type="text/css" href="style_project.css"/>
+  </head>
+
+  <body>
+    <link rel="stylesheet" type="text/css" href="menu.css"/>
+		<div class="intestazione">
+		<a href="http://www.unifr.ch/home/fr.html"><img src="unifr_logo.png" class="unifr" ></a> <a href="https://diuf.unifr.ch/main/fr" class="reference"><img src="logo_info.png" class="info_2"></a>
+		<div id="languages">
+				<a><img id="drapeau" src="Deutschland.png"></a>
+				<a href="Home_Page.html"><img id="drapeau" src="France.png"></a>
+				<a><img id="drapeau" src="italian.png"></a>
+		</div>
+		</div>
+
+		<div class="menu">
+			<br>
+				<a href="Home_Page.html"><button class="menu_not_divise"><img src="home_logo.png">   Home</button></a>
+				<div class="dropdown">
+				<button id="butt_vis" class="dropdown">Visualisation</button>
+			  	<div class="dropdown-content">
+			    	<a href="Suisse.html">Suisse</a>
+			    	<a href="Regions.html">R&eacute;gions linguistiques</a>
+			    	<a href="Project.html">Cantons</a>
+			  	</div>
+				</div>
+				<a href="Source.html"><button class="menu_not_divise">Sources</button></a>
+
+			</div>
+
+		<h1 class="title"> Ch&ocirc;mage en Suisse</h1>
+
+		<h2 class="title_ch"><strong>Ch&ocirc;mage par cantons</strong></h2>
+		<h3 class="title_slider_map"><strong>Ann&eacute;e consider&eacute;e : <span id="years_title"></span></strong></h3>
+		<div id="tooltip" class="hidden">
+			<p><strong>Ch&ocirc;mage <span id="canton"></span> <span id="anni_tooltip"> </span> :</strong></p>
+			<p><span id="value">100</span>%</p>
+		</div>
+
+    <div id="tooltip1" class="hidden1">
+    	<h2><strong>&Eacute;volution taux de ch&ocirc;mage dans le canton <span id="canton"></span> :</strong></h2>
+			<div id ="buttons_tooltip">
+				<button id="button1" class="butt1">Valeur Total</button>
+      	<br> <br>
+      	<button id="button2" class="butt2">Jeunes</button>
+			</div>
+
+			<div id="tooltip2" class="hidden"></div>
+
+    </div>
+
+
+    <div id="index" class="in"></div>
+    <button id="bf" class="bf1">X</button>
+
+  	<script type="text/javascript" src="script_project.js"></script>
+
+		<div id="container_slider" class="container">
+			<input type='range' min='0' max='23' value='0' id='slider' class="sl" list="steplist"></input>
+		<datalist id="steplist">
+		    <option>0</option>
+		    <option>1</option>
+		    <option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+				<option>6</option>
+				<option>7</option>
+				<option>8</option>
+				<option>9</option>
+				<option>10</option>
+				<option>11</option>
+				<option>12</option>
+				<option>13</option>
+				<option>14</option>
+				<option>15</option>
+				<option>16</option>
+				<option>17</option>
+				<option>18</option>
+				<option>19</option>
+				<option>20</option>
+				<option>21</option>
+				<option>22</option>
+				<option>23</option>
+		</datalist>
+	</div>
+
+		<link rel="stylesheet" type="text/css" href="style_project.css"/>
+
+    <script>
+
+
+			var slider = document.getElementById("slider");
+			var anni=slider.value;
+
+			slider.addEventListener("change", function() {
+      	anni = slider.value;
+
+      	setInterval(function() {
+					anni = slider.value;
+				}, 23)
+
+
+				update(anni)
+
+
+			})
+
+		</script>
+		<div id="anni_slider"></div>
+  </body>
+</html>

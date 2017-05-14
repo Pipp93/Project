@@ -1,0 +1,3170 @@
+{
+    "1993": {
+        "Berne": {
+            "percentuale": "3.000",
+            "jeunes": "4184",
+            "absolu": "19378"
+        },
+        "Soleure": {
+            "percentuale": "3.600",
+            "jeunes": "1174",
+            "absolu": "5626"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.600",
+            "jeunes": "887",
+            "absolu": "5716"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.300",
+            "jeunes": "856",
+            "absolu": "4251"
+        },
+        "Argovie": {
+            "percentuale": "2.900",
+            "jeunes": "1824",
+            "absolu": "9186"
+        },
+        "Zurich": {
+            "percentuale": "3.600",
+            "jeunes": "3874",
+            "absolu": "27397"
+        },
+        "Glaris": {
+            "percentuale": "1.700",
+            "jeunes": "102",
+            "absolu": "462"
+        },
+        "Schaffhouse": {
+            "percentuale": "3.800",
+            "jeunes": "323",
+            "absolu": "1609"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.600",
+            "jeunes": "128",
+            "absolu": "734"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.300",
+            "jeunes": "21",
+            "absolu": "112"
+        },
+        "Saint-Gall": {
+            "percentuale": "3.000",
+            "jeunes": "1453",
+            "absolu": "7333"
+        },
+        "Grisons": {
+            "percentuale": "1.500",
+            "jeunes": "359",
+            "absolu": "1633"
+        },
+        "Thurgovie": {
+            "percentuale": "2.500",
+            "jeunes": "640",
+            "absolu": "3073"
+        },
+        "Lucerne": {
+            "percentuale": "2.200",
+            "jeunes": "1397",
+            "absolu": "6112"
+        },
+        "Uri": {
+            "percentuale": "0.500",
+            "jeunes": "97",
+            "absolu": "262"
+        },
+        "Schwytz": {
+            "percentuale": "2.000",
+            "jeunes": "292",
+            "absolu": "1432"
+        },
+        "Obwald": {
+            "percentuale": "1.300",
+            "jeunes": "76",
+            "absolu": "288"
+        },
+        "Nidwald": {
+            "percentuale": "2.100",
+            "jeunes": "110",
+            "absolu": "531"
+        },
+        "Zoug": {
+            "percentuale": "3.900",
+            "jeunes": "319",
+            "absolu": "1826"
+        },
+        "Vaud": {
+            "percentuale": "5.100",
+            "jeunes": "4498",
+            "absolu": "21832"
+        },
+        "Valais": {
+            "percentuale": "4.200",
+            "jeunes": "2010",
+            "absolu": "7983"
+        },
+        "Genève": {
+            "percentuale": "5.700",
+            "jeunes": "2162",
+            "absolu": "14850"
+        },
+        "Fribourg": {
+            "percentuale": "3.400",
+            "jeunes": "1352",
+            "absolu": "5411"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.200",
+            "jeunes": "1172",
+            "absolu": "5365"
+        },
+        "Jura": {
+            "percentuale": "4.500",
+            "jeunes": "595",
+            "absolu": "1931"
+        },
+        "Tessin": {
+            "percentuale": "4.300",
+            "jeunes": "2192",
+            "absolu": "8805"
+        }
+    },
+    "1994": {
+        "Berne": {
+            "percentuale": "3.600",
+            "jeunes": "3834",
+            "absolu": "19898"
+        },
+        "Soleure": {
+            "percentuale": "3.900",
+            "jeunes": "998",
+            "absolu": "5321"
+        },
+        "Bäle-Ville": {
+            "percentuale": "4.000",
+            "jeunes": "906",
+            "absolu": "5915"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.900",
+            "jeunes": "862",
+            "absolu": "4772"
+        },
+        "Argovie": {
+            "percentuale": "3.300",
+            "jeunes": "1607",
+            "absolu": "8967"
+        },
+        "Zurich": {
+            "percentuale": "4.400",
+            "jeunes": "3763",
+            "absolu": "29557"
+        },
+        "Glaris": {
+            "percentuale": "1.900",
+            "jeunes": "73",
+            "absolu": "408"
+        },
+        "Schaffhouse": {
+            "percentuale": "4.200",
+            "jeunes": "272",
+            "absolu": "1591"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.800",
+            "jeunes": "106",
+            "absolu": "662"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.000",
+            "jeunes": "12",
+            "absolu": "82"
+        },
+        "Saint-Gall": {
+            "percentuale": "3.500",
+            "jeunes": "1312",
+            "absolu": "7205"
+        },
+        "Grisons": {
+            "percentuale": "1.800",
+            "jeunes": "319",
+            "absolu": "1729"
+        },
+        "Thurgovie": {
+            "percentuale": "2.900",
+            "jeunes": "636",
+            "absolu": "3228"
+        },
+        "Lucerne": {
+            "percentuale": "2.800",
+            "jeunes": "1179",
+            "absolu": "6104"
+        },
+        "Uri": {
+            "percentuale": "0.700",
+            "jeunes": "71",
+            "absolu": "266"
+        },
+        "Schwytz": {
+            "percentuale": "2.300",
+            "jeunes": "226",
+            "absolu": "1330"
+        },
+        "Obwald": {
+            "percentuale": "2.000",
+            "jeunes": "59",
+            "absolu": "291"
+        },
+        "Nidwald": {
+            "percentuale": "2.400",
+            "jeunes": "86",
+            "absolu": "474"
+        },
+        "Zoug": {
+            "percentuale": "4.500",
+            "jeunes": "235",
+            "absolu": "1664"
+        },
+        "Vaud": {
+            "percentuale": "6.100",
+            "jeunes": "4678",
+            "absolu": "23849"
+        },
+        "Valais": {
+            "percentuale": "5.600",
+            "jeunes": "2100",
+            "absolu": "9000"
+        },
+        "Genève": {
+            "percentuale": "6.500",
+            "jeunes": "2275",
+            "absolu": "15680"
+        },
+        "Fribourg": {
+            "percentuale": "4.600",
+            "jeunes": "1495",
+            "absolu": "6394"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.800",
+            "jeunes": "1156",
+            "absolu": "5558"
+        },
+        "Jura": {
+            "percentuale": "5.500",
+            "jeunes": "585",
+            "absolu": "2071"
+        },
+        "Tessin": {
+            "percentuale": "5.100",
+            "jeunes": "1989",
+            "absolu": "9024"
+        }
+    },
+    "1995": {
+        "Berne": {
+            "percentuale": "3.100",
+            "jeunes": "3049",
+            "absolu": "16898"
+        },
+        "Soleure": {
+            "percentuale": "3.300",
+            "jeunes": "783",
+            "absolu": "4290"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.400",
+            "jeunes": "740",
+            "absolu": "5066"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.500",
+            "jeunes": "707",
+            "absolu": "4029"
+        },
+        "Argovie": {
+            "percentuale": "3.100",
+            "jeunes": "1343",
+            "absolu": "7960"
+        },
+        "Zurich": {
+            "percentuale": "4.200",
+            "jeunes": "3162",
+            "absolu": "26559"
+        },
+        "Glaris": {
+            "percentuale": "2.100",
+            "jeunes": "68",
+            "absolu": "410"
+        },
+        "Schaffhouse": {
+            "percentuale": "4.000",
+            "jeunes": "239",
+            "absolu": "1428"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.100",
+            "jeunes": "82",
+            "absolu": "500"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.500",
+            "jeunes": "11",
+            "absolu": "54"
+        },
+        "Saint-Gall": {
+            "percentuale": "3.200",
+            "jeunes": "1025",
+            "absolu": "6038"
+        },
+        "Grisons": {
+            "percentuale": "2.200",
+            "jeunes": "295",
+            "absolu": "1797"
+        },
+        "Thurgovie": {
+            "percentuale": "2.600",
+            "jeunes": "507",
+            "absolu": "2772"
+        },
+        "Lucerne": {
+            "percentuale": "2.700",
+            "jeunes": "935",
+            "absolu": "5427"
+        },
+        "Uri": {
+            "percentuale": "0.900",
+            "jeunes": "59",
+            "absolu": "266"
+        },
+        "Schwytz": {
+            "percentuale": "2.000",
+            "jeunes": "181",
+            "absolu": "1192"
+        },
+        "Obwald": {
+            "percentuale": "1.900",
+            "jeunes": "39",
+            "absolu": "250"
+        },
+        "Nidwald": {
+            "percentuale": "2.200",
+            "jeunes": "62",
+            "absolu": "367"
+        },
+        "Zoug": {
+            "percentuale": "4.200",
+            "jeunes": "143",
+            "absolu": "1357"
+        },
+        "Vaud": {
+            "percentuale": "5.800",
+            "jeunes": "4156",
+            "absolu": "22199"
+        },
+        "Valais": {
+            "percentuale": "6.000",
+            "jeunes": "1891",
+            "absolu": "8527"
+        },
+        "Genève": {
+            "percentuale": "6.300",
+            "jeunes": "1939",
+            "absolu": "14279"
+        },
+        "Fribourg": {
+            "percentuale": "4.500",
+            "jeunes": "1225",
+            "absolu": "5638"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.300",
+            "jeunes": "1005",
+            "absolu": "4941"
+        },
+        "Jura": {
+            "percentuale": "4.800",
+            "jeunes": "490",
+            "absolu": "1742"
+        },
+        "Tessin": {
+            "percentuale": "5.300",
+            "jeunes": "1925",
+            "absolu": "9334"
+        }
+    },
+    "1996": {
+        "Berne": {
+            "percentuale": "3.400",
+            "jeunes": "3346",
+            "absolu": "18965"
+        },
+        "Soleure": {
+            "percentuale": "4.100",
+            "jeunes": "1051",
+            "absolu": "5605"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.100",
+            "jeunes": "701",
+            "absolu": "4801"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.800",
+            "jeunes": "771",
+            "absolu": "4538"
+        },
+        "Argovie": {
+            "percentuale": "3.900",
+            "jeunes": "1864",
+            "absolu": "10515"
+        },
+        "Zurich": {
+            "percentuale": "4.100",
+            "jeunes": "3791",
+            "absolu": "28648"
+        },
+        "Glaris": {
+            "percentuale": "3.000",
+            "jeunes": "123",
+            "absolu": "652"
+        },
+        "Schaffhouse": {
+            "percentuale": "4.300",
+            "jeunes": "284",
+            "absolu": "1684"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.100",
+            "jeunes": "102",
+            "absolu": "599"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.700",
+            "jeunes": "13",
+            "absolu": "103"
+        },
+        "Saint-Gall": {
+            "percentuale": "3.600",
+            "jeunes": "1384",
+            "absolu": "7652"
+        },
+        "Grisons": {
+            "percentuale": "2.800",
+            "jeunes": "361",
+            "absolu": "2290"
+        },
+        "Thurgovie": {
+            "percentuale": "3.200",
+            "jeunes": "722",
+            "absolu": "3780"
+        },
+        "Lucerne": {
+            "percentuale": "3.300",
+            "jeunes": "1193",
+            "absolu": "6800"
+        },
+        "Uri": {
+            "percentuale": "1.800",
+            "jeunes": "72",
+            "absolu": "369"
+        },
+        "Schwytz": {
+            "percentuale": "2.600",
+            "jeunes": "280",
+            "absolu": "1703"
+        },
+        "Obwald": {
+            "percentuale": "1.900",
+            "jeunes": "53",
+            "absolu": "305"
+        },
+        "Nidwald": {
+            "percentuale": "2.500",
+            "jeunes": "81",
+            "absolu": "440"
+        },
+        "Zoug": {
+            "percentuale": "4.200",
+            "jeunes": "206",
+            "absolu": "1613"
+        },
+        "Vaud": {
+            "percentuale": "6.200",
+            "jeunes": "3997",
+            "absolu": "23031"
+        },
+        "Valais": {
+            "percentuale": "5.800",
+            "jeunes": "1602",
+            "absolu": "8200"
+        },
+        "Genève": {
+            "percentuale": "6.100",
+            "jeunes": "1782",
+            "absolu": "13989"
+        },
+        "Fribourg": {
+            "percentuale": "3.900",
+            "jeunes": "1073",
+            "absolu": "5144"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.000",
+            "jeunes": "857",
+            "absolu": "4638"
+        },
+        "Jura": {
+            "percentuale": "5.200",
+            "jeunes": "506",
+            "absolu": "2008"
+        },
+        "Tessin": {
+            "percentuale": "6.200",
+            "jeunes": "1955",
+            "absolu": "10557"
+        }
+    },
+    "1997": {
+        "Berne": {
+            "percentuale": "3.900",
+            "jeunes": "3837",
+            "absolu": "21506"
+        },
+        "Soleure": {
+            "percentuale": "5.300",
+            "jeunes": "1415",
+            "absolu": "7301"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.300",
+            "jeunes": "793",
+            "absolu": "5061"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "3.100",
+            "jeunes": "877",
+            "absolu": "4958"
+        },
+        "Argovie": {
+            "percentuale": "4.600",
+            "jeunes": "2376",
+            "absolu": "12766"
+        },
+        "Zurich": {
+            "percentuale": "5.000",
+            "jeunes": "4548",
+            "absolu": "34306"
+        },
+        "Glaris": {
+            "percentuale": "2.900",
+            "jeunes": "124",
+            "absolu": "583"
+        },
+        "Schaffhouse": {
+            "percentuale": "5.000",
+            "jeunes": "359",
+            "absolu": "1999"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.500",
+            "jeunes": "102",
+            "absolu": "640"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "2.200",
+            "jeunes": "17",
+            "absolu": "129"
+        },
+        "Saint-Gall": {
+            "percentuale": "4.000",
+            "jeunes": "1549",
+            "absolu": "8666"
+        },
+        "Grisons": {
+            "percentuale": "3.400",
+            "jeunes": "477",
+            "absolu": "2847"
+        },
+        "Thurgovie": {
+            "percentuale": "4.400",
+            "jeunes": "866",
+            "absolu": "4608"
+        },
+        "Lucerne": {
+            "percentuale": "3.500",
+            "jeunes": "1402",
+            "absolu": "7375"
+        },
+        "Uri": {
+            "percentuale": "2.100",
+            "jeunes": "90",
+            "absolu": "388"
+        },
+        "Schwytz": {
+            "percentuale": "2.600",
+            "jeunes": "294",
+            "absolu": "1671"
+        },
+        "Obwald": {
+            "percentuale": "2.400",
+            "jeunes": "53",
+            "absolu": "330"
+        },
+        "Nidwald": {
+            "percentuale": "2.800",
+            "jeunes": "82",
+            "absolu": "444"
+        },
+        "Zoug": {
+            "percentuale": "4.700",
+            "jeunes": "261",
+            "absolu": "1858"
+        },
+        "Vaud": {
+            "percentuale": "6.200",
+            "jeunes": "3790",
+            "absolu": "22887"
+        },
+        "Valais": {
+            "percentuale": "6.100",
+            "jeunes": "1559",
+            "absolu": "8436"
+        },
+        "Genève": {
+            "percentuale": "6.900",
+            "jeunes": "2022",
+            "absolu": "16095"
+        },
+        "Fribourg": {
+            "percentuale": "4.100",
+            "jeunes": "1005",
+            "absolu": "5030"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.900",
+            "jeunes": "917",
+            "absolu": "5392"
+        },
+        "Jura": {
+            "percentuale": "6.000",
+            "jeunes": "507",
+            "absolu": "2163"
+        },
+        "Tessin": {
+            "percentuale": "6.700",
+            "jeunes": "1863",
+            "absolu": "10864"
+        }
+    },
+    "1998": {
+        "Berne": {
+            "percentuale": "2.600",
+            "jeunes": "2445",
+            "absolu": "14151"
+        },
+        "Soleure": {
+            "percentuale": "3.500",
+            "jeunes": "837",
+            "absolu": "4536"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.700",
+            "jeunes": "534",
+            "absolu": "3855"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.200",
+            "jeunes": "573",
+            "absolu": "3521"
+        },
+        "Argovie": {
+            "percentuale": "2.900",
+            "jeunes": "1584",
+            "absolu": "8276"
+        },
+        "Zurich": {
+            "percentuale": "4.300",
+            "jeunes": "3550",
+            "absolu": "27985"
+        },
+        "Glaris": {
+            "percentuale": "2.300",
+            "jeunes": "84",
+            "absolu": "405"
+        },
+        "Schaffhouse": {
+            "percentuale": "4.000",
+            "jeunes": "263",
+            "absolu": "1527"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.700",
+            "jeunes": "61",
+            "absolu": "363"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.200",
+            "jeunes": "7",
+            "absolu": "56"
+        },
+        "Saint-Gall": {
+            "percentuale": "3.000",
+            "jeunes": "990",
+            "absolu": "6079"
+        },
+        "Grisons": {
+            "percentuale": "2.600",
+            "jeunes": "356",
+            "absolu": "2231"
+        },
+        "Thurgovie": {
+            "percentuale": "3.400",
+            "jeunes": "591",
+            "absolu": "3455"
+        },
+        "Lucerne": {
+            "percentuale": "2.400",
+            "jeunes": "953",
+            "absolu": "4967"
+        },
+        "Uri": {
+            "percentuale": "1.600",
+            "jeunes": "53",
+            "absolu": "244"
+        },
+        "Schwytz": {
+            "percentuale": "2.400",
+            "jeunes": "194",
+            "absolu": "1228"
+        },
+        "Obwald": {
+            "percentuale": "1.500",
+            "jeunes": "35",
+            "absolu": "200"
+        },
+        "Nidwald": {
+            "percentuale": "1.700",
+            "jeunes": "46",
+            "absolu": "263"
+        },
+        "Zoug": {
+            "percentuale": "3.900",
+            "jeunes": "191",
+            "absolu": "1480"
+        },
+        "Vaud": {
+            "percentuale": "5.200",
+            "jeunes": "2733",
+            "absolu": "17885"
+        },
+        "Valais": {
+            "percentuale": "4.500",
+            "jeunes": "1002",
+            "absolu": "5710"
+        },
+        "Genève": {
+            "percentuale": "5.500",
+            "jeunes": "1367",
+            "absolu": "12607"
+        },
+        "Fribourg": {
+            "percentuale": "3.600",
+            "jeunes": "734",
+            "absolu": "4023"
+        },
+        "Neuchâtel": {
+            "percentuale": "5.000",
+            "jeunes": "733",
+            "absolu": "4513"
+        },
+        "Jura": {
+            "percentuale": "3.600",
+            "jeunes": "283",
+            "absolu": "1255"
+        },
+        "Tessin": {
+            "percentuale": "6.200",
+            "jeunes": "1378",
+            "absolu": "8844"
+        }
+    },
+    "1999": {
+        "Berne": {
+            "percentuale": "1.800",
+            "jeunes": "1583",
+            "absolu": "9196"
+        },
+        "Soleure": {
+            "percentuale": "2.400",
+            "jeunes": "565",
+            "absolu": "3073"
+        },
+        "Bäle-Ville": {
+            "percentuale": "1.800",
+            "jeunes": "360",
+            "absolu": "2544"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "1.700",
+            "jeunes": "352",
+            "absolu": "2416"
+        },
+        "Argovie": {
+            "percentuale": "2.200",
+            "jeunes": "1034",
+            "absolu": "5776"
+        },
+        "Zurich": {
+            "percentuale": "3.000",
+            "jeunes": "2430",
+            "absolu": "18993"
+        },
+        "Glaris": {
+            "percentuale": "2.000",
+            "jeunes": "56",
+            "absolu": "301"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.700",
+            "jeunes": "185",
+            "absolu": "1046"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.100",
+            "jeunes": "40",
+            "absolu": "244"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.700",
+            "jeunes": "3",
+            "absolu": "35"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.400",
+            "jeunes": "807",
+            "absolu": "4734"
+        },
+        "Grisons": {
+            "percentuale": "1.700",
+            "jeunes": "229",
+            "absolu": "1431"
+        },
+        "Thurgovie": {
+            "percentuale": "2.300",
+            "jeunes": "358",
+            "absolu": "2194"
+        },
+        "Lucerne": {
+            "percentuale": "1.600",
+            "jeunes": "634",
+            "absolu": "3297"
+        },
+        "Uri": {
+            "percentuale": "1.100",
+            "jeunes": "36",
+            "absolu": "167"
+        },
+        "Schwytz": {
+            "percentuale": "1.800",
+            "jeunes": "149",
+            "absolu": "854"
+        },
+        "Obwald": {
+            "percentuale": "0.500",
+            "jeunes": "13",
+            "absolu": "84"
+        },
+        "Nidwald": {
+            "percentuale": "0.700",
+            "jeunes": "19",
+            "absolu": "109"
+        },
+        "Zoug": {
+            "percentuale": "3.200",
+            "jeunes": "132",
+            "absolu": "1108"
+        },
+        "Vaud": {
+            "percentuale": "3.900",
+            "jeunes": "1880",
+            "absolu": "13157"
+        },
+        "Valais": {
+            "percentuale": "3.600",
+            "jeunes": "724",
+            "absolu": "4228"
+        },
+        "Genève": {
+            "percentuale": "4.700",
+            "jeunes": "1037",
+            "absolu": "10580"
+        },
+        "Fribourg": {
+            "percentuale": "2.300",
+            "jeunes": "499",
+            "absolu": "2697"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.900",
+            "jeunes": "460",
+            "absolu": "3350"
+        },
+        "Jura": {
+            "percentuale": "2.800",
+            "jeunes": "197",
+            "absolu": "902"
+        },
+        "Tessin": {
+            "percentuale": "4.500",
+            "jeunes": "909",
+            "absolu": "6087"
+        }
+    },
+    "2000": {
+        "Berne": {
+            "percentuale": "1.100",
+            "jeunes": "1066",
+            "absolu": "6950"
+        },
+        "Soleure": {
+            "percentuale": "1.400",
+            "jeunes": "401",
+            "absolu": "2133"
+        },
+        "Bäle-Ville": {
+            "percentuale": "1.500",
+            "jeunes": "308",
+            "absolu": "2054"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "1.200",
+            "jeunes": "255",
+            "absolu": "1895"
+        },
+        "Argovie": {
+            "percentuale": "1.300",
+            "jeunes": "706",
+            "absolu": "4138"
+        },
+        "Zurich": {
+            "percentuale": "1.700",
+            "jeunes": "1644",
+            "absolu": "13058"
+        },
+        "Glaris": {
+            "percentuale": "1.200",
+            "jeunes": "32",
+            "absolu": "194"
+        },
+        "Schaffhouse": {
+            "percentuale": "1.600",
+            "jeunes": "112",
+            "absolu": "665"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "0.900",
+            "jeunes": "31",
+            "absolu": "226"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.400",
+            "jeunes": "1",
+            "absolu": "23"
+        },
+        "Saint-Gall": {
+            "percentuale": "1.500",
+            "jeunes": "558",
+            "absolu": "3373"
+        },
+        "Grisons": {
+            "percentuale": "0.900",
+            "jeunes": "148",
+            "absolu": "1044"
+        },
+        "Thurgovie": {
+            "percentuale": "1.200",
+            "jeunes": "268",
+            "absolu": "1486"
+        },
+        "Lucerne": {
+            "percentuale": "1.000",
+            "jeunes": "452",
+            "absolu": "2464"
+        },
+        "Uri": {
+            "percentuale": "0.400",
+            "jeunes": "19",
+            "absolu": "93"
+        },
+        "Schwytz": {
+            "percentuale": "0.800",
+            "jeunes": "74",
+            "absolu": "508"
+        },
+        "Obwald": {
+            "percentuale": "0.400",
+            "jeunes": "10",
+            "absolu": "68"
+        },
+        "Nidwald": {
+            "percentuale": "0.400",
+            "jeunes": "12",
+            "absolu": "93"
+        },
+        "Zoug": {
+            "percentuale": "1.300",
+            "jeunes": "73",
+            "absolu": "654"
+        },
+        "Vaud": {
+            "percentuale": "2.300",
+            "jeunes": "1355",
+            "absolu": "9745"
+        },
+        "Valais": {
+            "percentuale": "2.000",
+            "jeunes": "482",
+            "absolu": "2982"
+        },
+        "Genève": {
+            "percentuale": "3.400",
+            "jeunes": "797",
+            "absolu": "9038"
+        },
+        "Fribourg": {
+            "percentuale": "1.200",
+            "jeunes": "316",
+            "absolu": "1918"
+        },
+        "Neuchâtel": {
+            "percentuale": "2.300",
+            "jeunes": "228",
+            "absolu": "1980"
+        },
+        "Jura": {
+            "percentuale": "1.500",
+            "jeunes": "136",
+            "absolu": "633"
+        },
+        "Tessin": {
+            "percentuale": "2.800",
+            "jeunes": "641",
+            "absolu": "4573"
+        }
+    },
+    "2001": {
+        "Berne": {
+            "percentuale": "0.900",
+            "jeunes": "975",
+            "absolu": "6060"
+        },
+        "Soleure": {
+            "percentuale": "1.100",
+            "jeunes": "386",
+            "absolu": "1918"
+        },
+        "Bäle-Ville": {
+            "percentuale": "1.500",
+            "jeunes": "327",
+            "absolu": "2113"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "1.100",
+            "jeunes": "270",
+            "absolu": "1877"
+        },
+        "Argovie": {
+            "percentuale": "1.100",
+            "jeunes": "641",
+            "absolu": "3721"
+        },
+        "Zurich": {
+            "percentuale": "1.500",
+            "jeunes": "1696",
+            "absolu": "12433"
+        },
+        "Glaris": {
+            "percentuale": "0.800",
+            "jeunes": "29",
+            "absolu": "146"
+        },
+        "Schaffhouse": {
+            "percentuale": "1.300",
+            "jeunes": "109",
+            "absolu": "617"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "0.900",
+            "jeunes": "35",
+            "absolu": "250"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.300",
+            "jeunes": "4",
+            "absolu": "21"
+        },
+        "Saint-Gall": {
+            "percentuale": "1.300",
+            "jeunes": "558",
+            "absolu": "3197"
+        },
+        "Grisons": {
+            "percentuale": "1.000",
+            "jeunes": "163",
+            "absolu": "1034"
+        },
+        "Thurgovie": {
+            "percentuale": "1.000",
+            "jeunes": "286",
+            "absolu": "1435"
+        },
+        "Lucerne": {
+            "percentuale": "0.900",
+            "jeunes": "449",
+            "absolu": "2302"
+        },
+        "Uri": {
+            "percentuale": "0.300",
+            "jeunes": "16",
+            "absolu": "71"
+        },
+        "Schwytz": {
+            "percentuale": "0.600",
+            "jeunes": "60",
+            "absolu": "435"
+        },
+        "Obwald": {
+            "percentuale": "0.500",
+            "jeunes": "15",
+            "absolu": "93"
+        },
+        "Nidwald": {
+            "percentuale": "0.400",
+            "jeunes": "23",
+            "absolu": "124"
+        },
+        "Zoug": {
+            "percentuale": "1.400",
+            "jeunes": "83",
+            "absolu": "799"
+        },
+        "Vaud": {
+            "percentuale": "2.100",
+            "jeunes": "1179",
+            "absolu": "8842"
+        },
+        "Valais": {
+            "percentuale": "1.800",
+            "jeunes": "489",
+            "absolu": "2830"
+        },
+        "Genève": {
+            "percentuale": "3.400",
+            "jeunes": "779",
+            "absolu": "8756"
+        },
+        "Fribourg": {
+            "percentuale": "1.000",
+            "jeunes": "281",
+            "absolu": "1697"
+        },
+        "Neuchâtel": {
+            "percentuale": "1.900",
+            "jeunes": "240",
+            "absolu": "1836"
+        },
+        "Jura": {
+            "percentuale": "1.400",
+            "jeunes": "166",
+            "absolu": "685"
+        },
+        "Tessin": {
+            "percentuale": "2.300",
+            "jeunes": "566",
+            "absolu": "3907"
+        }
+    },
+    "2002": {
+        "Berne": {
+            "percentuale": "1.300",
+            "jeunes": "1700",
+            "absolu": "9163"
+        },
+        "Soleure": {
+            "percentuale": "1.700",
+            "jeunes": "644",
+            "absolu": "3069"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.000",
+            "jeunes": "504",
+            "absolu": "2935"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "1.500",
+            "jeunes": "430",
+            "absolu": "2663"
+        },
+        "Argovie": {
+            "percentuale": "1.700",
+            "jeunes": "1271",
+            "absolu": "6507"
+        },
+        "Zurich": {
+            "percentuale": "2.200",
+            "jeunes": "3219",
+            "absolu": "21596"
+        },
+        "Glaris": {
+            "percentuale": "1.600",
+            "jeunes": "71",
+            "absolu": "320"
+        },
+        "Schaffhouse": {
+            "percentuale": "1.600",
+            "jeunes": "171",
+            "absolu": "910"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.600",
+            "jeunes": "71",
+            "absolu": "444"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.700",
+            "jeunes": "13",
+            "absolu": "61"
+        },
+        "Saint-Gall": {
+            "percentuale": "1.700",
+            "jeunes": "1006",
+            "absolu": "5084"
+        },
+        "Grisons": {
+            "percentuale": "1.200",
+            "jeunes": "258",
+            "absolu": "1387"
+        },
+        "Thurgovie": {
+            "percentuale": "1.700",
+            "jeunes": "544",
+            "absolu": "2445"
+        },
+        "Lucerne": {
+            "percentuale": "1.400",
+            "jeunes": "813",
+            "absolu": "3780"
+        },
+        "Uri": {
+            "percentuale": "0.500",
+            "jeunes": "35",
+            "absolu": "124"
+        },
+        "Schwytz": {
+            "percentuale": "1.100",
+            "jeunes": "163",
+            "absolu": "878"
+        },
+        "Obwald": {
+            "percentuale": "0.900",
+            "jeunes": "31",
+            "absolu": "168"
+        },
+        "Nidwald": {
+            "percentuale": "0.800",
+            "jeunes": "39",
+            "absolu": "231"
+        },
+        "Zoug": {
+            "percentuale": "2.300",
+            "jeunes": "196",
+            "absolu": "1537"
+        },
+        "Vaud": {
+            "percentuale": "2.600",
+            "jeunes": "1524",
+            "absolu": "11008"
+        },
+        "Valais": {
+            "percentuale": "2.200",
+            "jeunes": "650",
+            "absolu": "3559"
+        },
+        "Genève": {
+            "percentuale": "3.800",
+            "jeunes": "1115",
+            "absolu": "11216"
+        },
+        "Fribourg": {
+            "percentuale": "1.200",
+            "jeunes": "422",
+            "absolu": "2256"
+        },
+        "Neuchâtel": {
+            "percentuale": "2.600",
+            "jeunes": "431",
+            "absolu": "2807"
+        },
+        "Jura": {
+            "percentuale": "2.500",
+            "jeunes": "299",
+            "absolu": "1222"
+        },
+        "Tessin": {
+            "percentuale": "2.800",
+            "jeunes": "808",
+            "absolu": "5136"
+        }
+    },
+    "2003": {
+        "Berne": {
+            "percentuale": "2.000",
+            "jeunes": "3084",
+            "absolu": "14860"
+        },
+        "Soleure": {
+            "percentuale": "2.500",
+            "jeunes": "975",
+            "absolu": "4414"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.700",
+            "jeunes": "762",
+            "absolu": "4166"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.000",
+            "jeunes": "758",
+            "absolu": "4082"
+        },
+        "Argovie": {
+            "percentuale": "2.600",
+            "jeunes": "2177",
+            "absolu": "10192"
+        },
+        "Zurich": {
+            "percentuale": "3.300",
+            "jeunes": "5307",
+            "absolu": "32574"
+        },
+        "Glaris": {
+            "percentuale": "2.400",
+            "jeunes": "109",
+            "absolu": "482"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.400",
+            "jeunes": "242",
+            "absolu": "1216"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.100",
+            "jeunes": "112",
+            "absolu": "604"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.400",
+            "jeunes": "21",
+            "absolu": "105"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.300",
+            "jeunes": "1648",
+            "absolu": "7270"
+        },
+        "Grisons": {
+            "percentuale": "1.500",
+            "jeunes": "419",
+            "absolu": "1990"
+        },
+        "Thurgovie": {
+            "percentuale": "2.500",
+            "jeunes": "847",
+            "absolu": "3633"
+        },
+        "Lucerne": {
+            "percentuale": "2.200",
+            "jeunes": "1340",
+            "absolu": "5882"
+        },
+        "Uri": {
+            "percentuale": "0.900",
+            "jeunes": "62",
+            "absolu": "188"
+        },
+        "Schwytz": {
+            "percentuale": "1.700",
+            "jeunes": "308",
+            "absolu": "1491"
+        },
+        "Obwald": {
+            "percentuale": "1.200",
+            "jeunes": "59",
+            "absolu": "275"
+        },
+        "Nidwald": {
+            "percentuale": "1.500",
+            "jeunes": "68",
+            "absolu": "399"
+        },
+        "Zoug": {
+            "percentuale": "3.100",
+            "jeunes": "298",
+            "absolu": "2094"
+        },
+        "Vaud": {
+            "percentuale": "3.500",
+            "jeunes": "2304",
+            "absolu": "15468"
+        },
+        "Valais": {
+            "percentuale": "2.800",
+            "jeunes": "946",
+            "absolu": "4722"
+        },
+        "Genève": {
+            "percentuale": "4.600",
+            "jeunes": "1541",
+            "absolu": "14307"
+        },
+        "Fribourg": {
+            "percentuale": "2.000",
+            "jeunes": "657",
+            "absolu": "3491"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.400",
+            "jeunes": "639",
+            "absolu": "3820"
+        },
+        "Jura": {
+            "percentuale": "3.700",
+            "jeunes": "429",
+            "absolu": "1653"
+        },
+        "Tessin": {
+            "percentuale": "3.300",
+            "jeunes": "1019",
+            "absolu": "6309"
+        }
+    },
+    "2004": {
+        "Berne": {
+            "percentuale": "2.200",
+            "jeunes": "3192",
+            "absolu": "15213"
+        },
+        "Soleure": {
+            "percentuale": "2.900",
+            "jeunes": "1087",
+            "absolu": "4719"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.100",
+            "jeunes": "839",
+            "absolu": "4473"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.500",
+            "jeunes": "880",
+            "absolu": "4672"
+        },
+        "Argovie": {
+            "percentuale": "2.900",
+            "jeunes": "2330",
+            "absolu": "10524"
+        },
+        "Zurich": {
+            "percentuale": "3.600",
+            "jeunes": "5565",
+            "absolu": "32402"
+        },
+        "Glaris": {
+            "percentuale": "2.400",
+            "jeunes": "126",
+            "absolu": "490"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.500",
+            "jeunes": "303",
+            "absolu": "1336"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.300",
+            "jeunes": "118",
+            "absolu": "644"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.600",
+            "jeunes": "32",
+            "absolu": "121"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.600",
+            "jeunes": "1752",
+            "absolu": "7478"
+        },
+        "Grisons": {
+            "percentuale": "1.700",
+            "jeunes": "439",
+            "absolu": "2104"
+        },
+        "Thurgovie": {
+            "percentuale": "2.700",
+            "jeunes": "971",
+            "absolu": "3884"
+        },
+        "Lucerne": {
+            "percentuale": "2.400",
+            "jeunes": "1361",
+            "absolu": "5955"
+        },
+        "Uri": {
+            "percentuale": "1.000",
+            "jeunes": "71",
+            "absolu": "209"
+        },
+        "Schwytz": {
+            "percentuale": "2.100",
+            "jeunes": "348",
+            "absolu": "1630"
+        },
+        "Obwald": {
+            "percentuale": "1.300",
+            "jeunes": "64",
+            "absolu": "295"
+        },
+        "Nidwald": {
+            "percentuale": "1.700",
+            "jeunes": "77",
+            "absolu": "408"
+        },
+        "Zoug": {
+            "percentuale": "3.000",
+            "jeunes": "284",
+            "absolu": "1992"
+        },
+        "Vaud": {
+            "percentuale": "4.000",
+            "jeunes": "2759",
+            "absolu": "17874"
+        },
+        "Valais": {
+            "percentuale": "3.100",
+            "jeunes": "1120",
+            "absolu": "5226"
+        },
+        "Genève": {
+            "percentuale": "5.000",
+            "jeunes": "1750",
+            "absolu": "15569"
+        },
+        "Fribourg": {
+            "percentuale": "2.200",
+            "jeunes": "695",
+            "absolu": "3696"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.800",
+            "jeunes": "659",
+            "absolu": "3856"
+        },
+        "Jura": {
+            "percentuale": "3.800",
+            "jeunes": "375",
+            "absolu": "1573"
+        },
+        "Tessin": {
+            "percentuale": "3.600",
+            "jeunes": "1114",
+            "absolu": "6749"
+        }
+    },
+    "2005": {
+        "Berne": {
+            "percentuale": "2.200",
+            "jeunes": "3161",
+            "absolu": "14810"
+        },
+        "Soleure": {
+            "percentuale": "2.800",
+            "jeunes": "1056",
+            "absolu": "4471"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.000",
+            "jeunes": "746",
+            "absolu": "3971"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.700",
+            "jeunes": "862",
+            "absolu": "4588"
+        },
+        "Argovie": {
+            "percentuale": "2.900",
+            "jeunes": "2263",
+            "absolu": "9965"
+        },
+        "Zurich": {
+            "percentuale": "3.300",
+            "jeunes": "5337",
+            "absolu": "29042"
+        },
+        "Glaris": {
+            "percentuale": "2.500",
+            "jeunes": "137",
+            "absolu": "513"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.500",
+            "jeunes": "300",
+            "absolu": "1278"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.300",
+            "jeunes": "113",
+            "absolu": "617"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.400",
+            "jeunes": "28",
+            "absolu": "111"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.600",
+            "jeunes": "1721",
+            "absolu": "7197"
+        },
+        "Grisons": {
+            "percentuale": "1.800",
+            "jeunes": "463",
+            "absolu": "2203"
+        },
+        "Thurgovie": {
+            "percentuale": "2.700",
+            "jeunes": "1014",
+            "absolu": "3811"
+        },
+        "Lucerne": {
+            "percentuale": "2.400",
+            "jeunes": "1429",
+            "absolu": "5784"
+        },
+        "Uri": {
+            "percentuale": "1.200",
+            "jeunes": "75",
+            "absolu": "231"
+        },
+        "Schwytz": {
+            "percentuale": "2.300",
+            "jeunes": "352",
+            "absolu": "1650"
+        },
+        "Obwald": {
+            "percentuale": "1.200",
+            "jeunes": "76",
+            "absolu": "283"
+        },
+        "Nidwald": {
+            "percentuale": "1.800",
+            "jeunes": "75",
+            "absolu": "411"
+        },
+        "Zoug": {
+            "percentuale": "3.000",
+            "jeunes": "276",
+            "absolu": "1827"
+        },
+        "Vaud": {
+            "percentuale": "4.200",
+            "jeunes": "2678",
+            "absolu": "17750"
+        },
+        "Valais": {
+            "percentuale": "3.400",
+            "jeunes": "1091",
+            "absolu": "5450"
+        },
+        "Genève": {
+            "percentuale": "5.400",
+            "jeunes": "1855",
+            "absolu": "16248"
+        },
+        "Fribourg": {
+            "percentuale": "2.500",
+            "jeunes": "740",
+            "absolu": "3932"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.700",
+            "jeunes": "642",
+            "absolu": "3735"
+        },
+        "Jura": {
+            "percentuale": "3.600",
+            "jeunes": "338",
+            "absolu": "1442"
+        },
+        "Tessin": {
+            "percentuale": "4.000",
+            "jeunes": "1215",
+            "absolu": "7218"
+        }
+    },
+    "2006": {
+        "Berne": {
+            "percentuale": "2.100",
+            "jeunes": "2605",
+            "absolu": "13046"
+        },
+        "Soleure": {
+            "percentuale": "2.700",
+            "jeunes": "898",
+            "absolu": "3874"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.900",
+            "jeunes": "648",
+            "absolu": "3649"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.500",
+            "jeunes": "698",
+            "absolu": "3851"
+        },
+        "Argovie": {
+            "percentuale": "2.700",
+            "jeunes": "1877",
+            "absolu": "8756"
+        },
+        "Zurich": {
+            "percentuale": "2.800",
+            "jeunes": "4355",
+            "absolu": "24175"
+        },
+        "Glaris": {
+            "percentuale": "2.400",
+            "jeunes": "114",
+            "absolu": "472"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.500",
+            "jeunes": "246",
+            "absolu": "1118"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.100",
+            "jeunes": "94",
+            "absolu": "535"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.000",
+            "jeunes": "24",
+            "absolu": "85"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.300",
+            "jeunes": "1429",
+            "absolu": "6075"
+        },
+        "Grisons": {
+            "percentuale": "1.600",
+            "jeunes": "366",
+            "absolu": "1849"
+        },
+        "Thurgovie": {
+            "percentuale": "2.500",
+            "jeunes": "838",
+            "absolu": "3289"
+        },
+        "Lucerne": {
+            "percentuale": "2.300",
+            "jeunes": "1174",
+            "absolu": "5099"
+        },
+        "Uri": {
+            "percentuale": "1.100",
+            "jeunes": "52",
+            "absolu": "192"
+        },
+        "Schwytz": {
+            "percentuale": "2.200",
+            "jeunes": "287",
+            "absolu": "1412"
+        },
+        "Obwald": {
+            "percentuale": "1.300",
+            "jeunes": "57",
+            "absolu": "261"
+        },
+        "Nidwald": {
+            "percentuale": "1.500",
+            "jeunes": "69",
+            "absolu": "345"
+        },
+        "Zoug": {
+            "percentuale": "2.600",
+            "jeunes": "231",
+            "absolu": "1457"
+        },
+        "Vaud": {
+            "percentuale": "4.100",
+            "jeunes": "2323",
+            "absolu": "15881"
+        },
+        "Valais": {
+            "percentuale": "3.200",
+            "jeunes": "926",
+            "absolu": "4806"
+        },
+        "Genève": {
+            "percentuale": "5.500",
+            "jeunes": "1742",
+            "absolu": "15365"
+        },
+        "Fribourg": {
+            "percentuale": "2.600",
+            "jeunes": "670",
+            "absolu": "3845"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.800",
+            "jeunes": "572",
+            "absolu": "3530"
+        },
+        "Jura": {
+            "percentuale": "3.400",
+            "jeunes": "293",
+            "absolu": "1308"
+        },
+        "Tessin": {
+            "percentuale": "4.100",
+            "jeunes": "1222",
+            "absolu": "7260"
+        }
+    },
+    "2007": {
+        "Berne": {
+            "percentuale": "1.700",
+            "jeunes": "1936",
+            "absolu": "10424"
+        },
+        "Soleure": {
+            "percentuale": "2.300",
+            "jeunes": "704",
+            "absolu": "3242"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.700",
+            "jeunes": "498",
+            "absolu": "3166"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.200",
+            "jeunes": "500",
+            "absolu": "3211"
+        },
+        "Argovie": {
+            "percentuale": "2.300",
+            "jeunes": "1426",
+            "absolu": "7218"
+        },
+        "Zurich": {
+            "percentuale": "2.300",
+            "jeunes": "3252",
+            "absolu": "19032"
+        },
+        "Glaris": {
+            "percentuale": "1.700",
+            "jeunes": "79",
+            "absolu": "334"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.000",
+            "jeunes": "168",
+            "absolu": "846"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.700",
+            "jeunes": "71",
+            "absolu": "428"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.000",
+            "jeunes": "19",
+            "absolu": "76"
+        },
+        "Saint-Gall": {
+            "percentuale": "1.900",
+            "jeunes": "990",
+            "absolu": "4756"
+        },
+        "Grisons": {
+            "percentuale": "1.200",
+            "jeunes": "259",
+            "absolu": "1405"
+        },
+        "Thurgovie": {
+            "percentuale": "1.900",
+            "jeunes": "585",
+            "absolu": "2427"
+        },
+        "Lucerne": {
+            "percentuale": "1.900",
+            "jeunes": "867",
+            "absolu": "4010"
+        },
+        "Uri": {
+            "percentuale": "1.000",
+            "jeunes": "44",
+            "absolu": "185"
+        },
+        "Schwytz": {
+            "percentuale": "1.700",
+            "jeunes": "183",
+            "absolu": "1047"
+        },
+        "Obwald": {
+            "percentuale": "1.200",
+            "jeunes": "44",
+            "absolu": "194"
+        },
+        "Nidwald": {
+            "percentuale": "1.100",
+            "jeunes": "46",
+            "absolu": "246"
+        },
+        "Zoug": {
+            "percentuale": "2.100",
+            "jeunes": "173",
+            "absolu": "1128"
+        },
+        "Vaud": {
+            "percentuale": "3.600",
+            "jeunes": "1884",
+            "absolu": "13673"
+        },
+        "Valais": {
+            "percentuale": "3.000",
+            "jeunes": "814",
+            "absolu": "4379"
+        },
+        "Genève": {
+            "percentuale": "5.100",
+            "jeunes": "1440",
+            "absolu": "13793"
+        },
+        "Fribourg": {
+            "percentuale": "2.400",
+            "jeunes": "565",
+            "absolu": "3376"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.200",
+            "jeunes": "430",
+            "absolu": "2941"
+        },
+        "Jura": {
+            "percentuale": "3.100",
+            "jeunes": "248",
+            "absolu": "1139"
+        },
+        "Tessin": {
+            "percentuale": "3.700",
+            "jeunes": "1036",
+            "absolu": "6513"
+        }
+    },
+    "2008": {
+        "Berne": {
+            "percentuale": "1.500",
+            "jeunes": "1673",
+            "absolu": "9161"
+        },
+        "Soleure": {
+            "percentuale": "2.100",
+            "jeunes": "616",
+            "absolu": "3002"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.600",
+            "jeunes": "433",
+            "absolu": "2929"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.000",
+            "jeunes": "438",
+            "absolu": "3081"
+        },
+        "Argovie": {
+            "percentuale": "2.100",
+            "jeunes": "1404",
+            "absolu": "7026"
+        },
+        "Zurich": {
+            "percentuale": "2.100",
+            "jeunes": "2812",
+            "absolu": "17691"
+        },
+        "Glaris": {
+            "percentuale": "1.500",
+            "jeunes": "64",
+            "absolu": "267"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.000",
+            "jeunes": "152",
+            "absolu": "811"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.500",
+            "jeunes": "65",
+            "absolu": "392"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.800",
+            "jeunes": "14",
+            "absolu": "65"
+        },
+        "Saint-Gall": {
+            "percentuale": "1.800",
+            "jeunes": "889",
+            "absolu": "4471"
+        },
+        "Grisons": {
+            "percentuale": "1.100",
+            "jeunes": "242",
+            "absolu": "1300"
+        },
+        "Thurgovie": {
+            "percentuale": "1.900",
+            "jeunes": "544",
+            "absolu": "2403"
+        },
+        "Lucerne": {
+            "percentuale": "1.800",
+            "jeunes": "784",
+            "absolu": "3742"
+        },
+        "Uri": {
+            "percentuale": "0.800",
+            "jeunes": "35",
+            "absolu": "145"
+        },
+        "Schwytz": {
+            "percentuale": "1.500",
+            "jeunes": "146",
+            "absolu": "900"
+        },
+        "Obwald": {
+            "percentuale": "1.100",
+            "jeunes": "35",
+            "absolu": "198"
+        },
+        "Nidwald": {
+            "percentuale": "1.200",
+            "jeunes": "43",
+            "absolu": "258"
+        },
+        "Zoug": {
+            "percentuale": "1.900",
+            "jeunes": "150",
+            "absolu": "1033"
+        },
+        "Vaud": {
+            "percentuale": "3.400",
+            "jeunes": "1752",
+            "absolu": "12867"
+        },
+        "Valais": {
+            "percentuale": "2.900",
+            "jeunes": "752",
+            "absolu": "4266"
+        },
+        "Genève": {
+            "percentuale": "4.700",
+            "jeunes": "1211",
+            "absolu": "12510"
+        },
+        "Fribourg": {
+            "percentuale": "2.300",
+            "jeunes": "523",
+            "absolu": "3195"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.000",
+            "jeunes": "446",
+            "absolu": "2872"
+        },
+        "Jura": {
+            "percentuale": "3.100",
+            "jeunes": "220",
+            "absolu": "1044"
+        },
+        "Tessin": {
+            "percentuale": "3.600",
+            "jeunes": "918",
+            "absolu": "6097"
+        }
+    },
+    "2009": {
+        "Berne": {
+            "percentuale": "2.300",
+            "jeunes": "2705",
+            "absolu": "13817"
+        },
+        "Soleure": {
+            "percentuale": "3.600",
+            "jeunes": "1094",
+            "absolu": "5125"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.000",
+            "jeunes": "577",
+            "absolu": "3712"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.800",
+            "jeunes": "750",
+            "absolu": "4644"
+        },
+        "Argovie": {
+            "percentuale": "2.900",
+            "jeunes": "2195",
+            "absolu": "10374"
+        },
+        "Zurich": {
+            "percentuale": "2.900",
+            "jeunes": "4364",
+            "absolu": "26815"
+        },
+        "Glaris": {
+            "percentuale": "2.500",
+            "jeunes": "112",
+            "absolu": "500"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.800",
+            "jeunes": "262",
+            "absolu": "1277"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "2.100",
+            "jeunes": "107",
+            "absolu": "599"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.900",
+            "jeunes": "21",
+            "absolu": "100"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.900",
+            "jeunes": "1772",
+            "absolu": "8053"
+        },
+        "Grisons": {
+            "percentuale": "1.600",
+            "jeunes": "345",
+            "absolu": "1811"
+        },
+        "Thurgovie": {
+            "percentuale": "3.000",
+            "jeunes": "951",
+            "absolu": "3969"
+        },
+        "Lucerne": {
+            "percentuale": "2.400",
+            "jeunes": "1128",
+            "absolu": "5376"
+        },
+        "Uri": {
+            "percentuale": "1.100",
+            "jeunes": "62",
+            "absolu": "228"
+        },
+        "Schwytz": {
+            "percentuale": "2.300",
+            "jeunes": "251",
+            "absolu": "1470"
+        },
+        "Obwald": {
+            "percentuale": "1.700",
+            "jeunes": "61",
+            "absolu": "287"
+        },
+        "Nidwald": {
+            "percentuale": "1.900",
+            "jeunes": "70",
+            "absolu": "383"
+        },
+        "Zoug": {
+            "percentuale": "2.900",
+            "jeunes": "244",
+            "absolu": "1634"
+        },
+        "Vaud": {
+            "percentuale": "4.100",
+            "jeunes": "2442",
+            "absolu": "17063"
+        },
+        "Valais": {
+            "percentuale": "3.700",
+            "jeunes": "1041",
+            "absolu": "5685"
+        },
+        "Genève": {
+            "percentuale": "5.000",
+            "jeunes": "1602",
+            "absolu": "14887"
+        },
+        "Fribourg": {
+            "percentuale": "2.800",
+            "jeunes": "805",
+            "absolu": "4251"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.400",
+            "jeunes": "905",
+            "absolu": "5001"
+        },
+        "Jura": {
+            "percentuale": "4.600",
+            "jeunes": "417",
+            "absolu": "1786"
+        },
+        "Tessin": {
+            "percentuale": "4.200",
+            "jeunes": "1121",
+            "absolu": "7242"
+        }
+    },
+    "2010": {
+        "Berne": {
+            "percentuale": "2.200",
+            "jeunes": "2497",
+            "absolu": "14491"
+        },
+        "Soleure": {
+            "percentuale": "3.100",
+            "jeunes": "982",
+            "absolu": "4982"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.100",
+            "jeunes": "591",
+            "absolu": "3927"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.600",
+            "jeunes": "759",
+            "absolu": "4877"
+        },
+        "Argovie": {
+            "percentuale": "2.500",
+            "jeunes": "2018",
+            "absolu": "10922"
+        },
+        "Zurich": {
+            "percentuale": "2.900",
+            "jeunes": "4210",
+            "absolu": "28227"
+        },
+        "Glaris": {
+            "percentuale": "2.200",
+            "jeunes": "110",
+            "absolu": "537"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.500",
+            "jeunes": "242",
+            "absolu": "1264"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.900",
+            "jeunes": "91",
+            "absolu": "557"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.700",
+            "jeunes": "16",
+            "absolu": "89"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.700",
+            "jeunes": "1612",
+            "absolu": "8193"
+        },
+        "Grisons": {
+            "percentuale": "1.300",
+            "jeunes": "297",
+            "absolu": "1739"
+        },
+        "Thurgovie": {
+            "percentuale": "2.400",
+            "jeunes": "889",
+            "absolu": "4059"
+        },
+        "Lucerne": {
+            "percentuale": "2.000",
+            "jeunes": "988",
+            "absolu": "5136"
+        },
+        "Uri": {
+            "percentuale": "1.000",
+            "jeunes": "60",
+            "absolu": "249"
+        },
+        "Schwytz": {
+            "percentuale": "2.200",
+            "jeunes": "242",
+            "absolu": "1651"
+        },
+        "Obwald": {
+            "percentuale": "1.000",
+            "jeunes": "55",
+            "absolu": "265"
+        },
+        "Nidwald": {
+            "percentuale": "1.600",
+            "jeunes": "57",
+            "absolu": "355"
+        },
+        "Zoug": {
+            "percentuale": "2.100",
+            "jeunes": "204",
+            "absolu": "1518"
+        },
+        "Vaud": {
+            "percentuale": "3.900",
+            "jeunes": "2477",
+            "absolu": "18536"
+        },
+        "Valais": {
+            "percentuale": "2.900",
+            "jeunes": "1049",
+            "absolu": "5940"
+        },
+        "Genève": {
+            "percentuale": "4.800",
+            "jeunes": "1673",
+            "absolu": "15505"
+        },
+        "Fribourg": {
+            "percentuale": "2.200",
+            "jeunes": "721",
+            "absolu": "4039"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.800",
+            "jeunes": "940",
+            "absolu": "5504"
+        },
+        "Jura": {
+            "percentuale": "4.500",
+            "jeunes": "376",
+            "absolu": "1831"
+        },
+        "Tessin": {
+            "percentuale": "3.800",
+            "jeunes": "1187",
+            "absolu": "7593"
+        }
+    },
+    "2011": {
+        "Berne": {
+            "percentuale": "1.800",
+            "jeunes": "1798",
+            "absolu": "11133"
+        },
+        "Soleure": {
+            "percentuale": "2.200",
+            "jeunes": "619",
+            "absolu": "3445"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.800",
+            "jeunes": "489",
+            "absolu": "3434"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.400",
+            "jeunes": "534",
+            "absolu": "4016"
+        },
+        "Argovie": {
+            "percentuale": "2.200",
+            "jeunes": "1473",
+            "absolu": "8957"
+        },
+        "Zurich": {
+            "percentuale": "2.500",
+            "jeunes": "3073",
+            "absolu": "22521"
+        },
+        "Glaris": {
+            "percentuale": "2.000",
+            "jeunes": "76",
+            "absolu": "431"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.100",
+            "jeunes": "173",
+            "absolu": "930"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.500",
+            "jeunes": "56",
+            "absolu": "413"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "0.700",
+            "jeunes": "17",
+            "absolu": "72"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.100",
+            "jeunes": "1041",
+            "absolu": "5827"
+        },
+        "Grisons": {
+            "percentuale": "1.200",
+            "jeunes": "278",
+            "absolu": "1669"
+        },
+        "Thurgovie": {
+            "percentuale": "1.900",
+            "jeunes": "551",
+            "absolu": "2855"
+        },
+        "Lucerne": {
+            "percentuale": "1.700",
+            "jeunes": "706",
+            "absolu": "3897"
+        },
+        "Uri": {
+            "percentuale": "1.100",
+            "jeunes": "48",
+            "absolu": "217"
+        },
+        "Schwytz": {
+            "percentuale": "1.600",
+            "jeunes": "155",
+            "absolu": "1170"
+        },
+        "Obwald": {
+            "percentuale": "0.600",
+            "jeunes": "29",
+            "absolu": "160"
+        },
+        "Nidwald": {
+            "percentuale": "1.000",
+            "jeunes": "31",
+            "absolu": "208"
+        },
+        "Zoug": {
+            "percentuale": "1.700",
+            "jeunes": "152",
+            "absolu": "1196"
+        },
+        "Vaud": {
+            "percentuale": "3.600",
+            "jeunes": "2068",
+            "absolu": "16494"
+        },
+        "Valais": {
+            "percentuale": "2.700",
+            "jeunes": "839",
+            "absolu": "5167"
+        },
+        "Genève": {
+            "percentuale": "4.400",
+            "jeunes": "1218",
+            "absolu": "13159"
+        },
+        "Fribourg": {
+            "percentuale": "1.800",
+            "jeunes": "549",
+            "absolu": "3277"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.000",
+            "jeunes": "695",
+            "absolu": "4222"
+        },
+        "Jura": {
+            "percentuale": "3.200",
+            "jeunes": "216",
+            "absolu": "1203"
+        },
+        "Tessin": {
+            "percentuale": "3.600",
+            "jeunes": "977",
+            "absolu": "6819"
+        }
+    },
+    "2012": {
+        "Berne": {
+            "percentuale": "1.800",
+            "jeunes": "1761",
+            "absolu": "10941"
+        },
+        "Soleure": {
+            "percentuale": "2.200",
+            "jeunes": "634",
+            "absolu": "3506"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.800",
+            "jeunes": "428",
+            "absolu": "3435"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.300",
+            "jeunes": "532",
+            "absolu": "3985"
+        },
+        "Argovie": {
+            "percentuale": "2.300",
+            "jeunes": "1502",
+            "absolu": "9374"
+        },
+        "Zurich": {
+            "percentuale": "2.500",
+            "jeunes": "3186",
+            "absolu": "23431"
+        },
+        "Glaris": {
+            "percentuale": "2.100",
+            "jeunes": "90",
+            "absolu": "517"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.100",
+            "jeunes": "188",
+            "absolu": "1058"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.600",
+            "jeunes": "65",
+            "absolu": "448"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.300",
+            "jeunes": "19",
+            "absolu": "103"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.100",
+            "jeunes": "1123",
+            "absolu": "6209"
+        },
+        "Grisons": {
+            "percentuale": "1.200",
+            "jeunes": "282",
+            "absolu": "1755"
+        },
+        "Thurgovie": {
+            "percentuale": "1.900",
+            "jeunes": "619",
+            "absolu": "3084"
+        },
+        "Lucerne": {
+            "percentuale": "1.600",
+            "jeunes": "735",
+            "absolu": "4078"
+        },
+        "Uri": {
+            "percentuale": "1.100",
+            "jeunes": "45",
+            "absolu": "249"
+        },
+        "Schwytz": {
+            "percentuale": "1.500",
+            "jeunes": "144",
+            "absolu": "1098"
+        },
+        "Obwald": {
+            "percentuale": "0.700",
+            "jeunes": "33",
+            "absolu": "183"
+        },
+        "Nidwald": {
+            "percentuale": "1.000",
+            "jeunes": "32",
+            "absolu": "210"
+        },
+        "Zoug": {
+            "percentuale": "1.600",
+            "jeunes": "159",
+            "absolu": "1187"
+        },
+        "Vaud": {
+            "percentuale": "3.800",
+            "jeunes": "2201",
+            "absolu": "17391"
+        },
+        "Valais": {
+            "percentuale": "3.000",
+            "jeunes": "881",
+            "absolu": "5695"
+        },
+        "Genève": {
+            "percentuale": "3.800",
+            "jeunes": "1052",
+            "absolu": "11653"
+        },
+        "Fribourg": {
+            "percentuale": "2.000",
+            "jeunes": "574",
+            "absolu": "3630"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.700",
+            "jeunes": "714",
+            "absolu": "4209"
+        },
+        "Jura": {
+            "percentuale": "2.900",
+            "jeunes": "203",
+            "absolu": "1146"
+        },
+        "Tessin": {
+            "percentuale": "3.800",
+            "jeunes": "988",
+            "absolu": "7018"
+        }
+    },
+    "2013": {
+        "Berne": {
+            "percentuale": "2.000",
+            "jeunes": "1948",
+            "absolu": "12725"
+        },
+        "Soleure": {
+            "percentuale": "2.300",
+            "jeunes": "690",
+            "absolu": "3884"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.900",
+            "jeunes": "439",
+            "absolu": "3504"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.300",
+            "jeunes": "506",
+            "absolu": "3958"
+        },
+        "Argovie": {
+            "percentuale": "2.500",
+            "jeunes": "1469",
+            "absolu": "9947"
+        },
+        "Zurich": {
+            "percentuale": "2.700",
+            "jeunes": "3279",
+            "absolu": "25262"
+        },
+        "Glaris": {
+            "percentuale": "2.400",
+            "jeunes": "97",
+            "absolu": "550"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.100",
+            "jeunes": "212",
+            "absolu": "1149"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.700",
+            "jeunes": "72",
+            "absolu": "502"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.400",
+            "jeunes": "23",
+            "absolu": "122"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.200",
+            "jeunes": "1119",
+            "absolu": "6531"
+        },
+        "Grisons": {
+            "percentuale": "1.400",
+            "jeunes": "268",
+            "absolu": "1870"
+        },
+        "Thurgovie": {
+            "percentuale": "2.300",
+            "jeunes": "622",
+            "absolu": "3508"
+        },
+        "Lucerne": {
+            "percentuale": "1.700",
+            "jeunes": "687",
+            "absolu": "4180"
+        },
+        "Uri": {
+            "percentuale": "1.000",
+            "jeunes": "43",
+            "absolu": "233"
+        },
+        "Schwytz": {
+            "percentuale": "1.700",
+            "jeunes": "155",
+            "absolu": "1261"
+        },
+        "Obwald": {
+            "percentuale": "0.800",
+            "jeunes": "38",
+            "absolu": "191"
+        },
+        "Nidwald": {
+            "percentuale": "1.100",
+            "jeunes": "30",
+            "absolu": "235"
+        },
+        "Zoug": {
+            "percentuale": "2.000",
+            "jeunes": "151",
+            "absolu": "1352"
+        },
+        "Vaud": {
+            "percentuale": "4.100",
+            "jeunes": "2261",
+            "absolu": "18723"
+        },
+        "Valais": {
+            "percentuale": "3.500",
+            "jeunes": "986",
+            "absolu": "6553"
+        },
+        "Genève": {
+            "percentuale": "4.000",
+            "jeunes": "1198",
+            "absolu": "12804"
+        },
+        "Fribourg": {
+            "percentuale": "2.400",
+            "jeunes": "640",
+            "absolu": "4200"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.000",
+            "jeunes": "735",
+            "absolu": "4665"
+        },
+        "Jura": {
+            "percentuale": "3.300",
+            "jeunes": "246",
+            "absolu": "1353"
+        },
+        "Tessin": {
+            "percentuale": "3.900",
+            "jeunes": "997",
+            "absolu": "7261"
+        }
+    },
+    "2014": {
+        "Berne": {
+            "percentuale": "1.900",
+            "jeunes": "1923",
+            "absolu": "13189"
+        },
+        "Soleure": {
+            "percentuale": "2.000",
+            "jeunes": "583",
+            "absolu": "3557"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.800",
+            "jeunes": "409",
+            "absolu": "3362"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.300",
+            "jeunes": "472",
+            "absolu": "3946"
+        },
+        "Argovie": {
+            "percentuale": "2.400",
+            "jeunes": "1399",
+            "absolu": "10138"
+        },
+        "Zurich": {
+            "percentuale": "2.700",
+            "jeunes": "3215",
+            "absolu": "26013"
+        },
+        "Glaris": {
+            "percentuale": "2.100",
+            "jeunes": "70",
+            "absolu": "501"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.200",
+            "jeunes": "227",
+            "absolu": "1258"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.500",
+            "jeunes": "79",
+            "absolu": "533"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.300",
+            "jeunes": "14",
+            "absolu": "97"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.000",
+            "jeunes": "1046",
+            "absolu": "6164"
+        },
+        "Grisons": {
+            "percentuale": "1.300",
+            "jeunes": "254",
+            "absolu": "1822"
+        },
+        "Thurgovie": {
+            "percentuale": "2.100",
+            "jeunes": "613",
+            "absolu": "3520"
+        },
+        "Lucerne": {
+            "percentuale": "1.600",
+            "jeunes": "645",
+            "absolu": "4147"
+        },
+        "Uri": {
+            "percentuale": "0.900",
+            "jeunes": "33",
+            "absolu": "203"
+        },
+        "Schwytz": {
+            "percentuale": "1.500",
+            "jeunes": "158",
+            "absolu": "1344"
+        },
+        "Obwald": {
+            "percentuale": "0.900",
+            "jeunes": "34",
+            "absolu": "196"
+        },
+        "Nidwald": {
+            "percentuale": "1.000",
+            "jeunes": "28",
+            "absolu": "234"
+        },
+        "Zoug": {
+            "percentuale": "2.100",
+            "jeunes": "156",
+            "absolu": "1456"
+        },
+        "Vaud": {
+            "percentuale": "3.700",
+            "jeunes": "2057",
+            "absolu": "18238"
+        },
+        "Valais": {
+            "percentuale": "3.000",
+            "jeunes": "991",
+            "absolu": "6773"
+        },
+        "Genève": {
+            "percentuale": "3.900",
+            "jeunes": "1133",
+            "absolu": "12817"
+        },
+        "Fribourg": {
+            "percentuale": "2.200",
+            "jeunes": "633",
+            "absolu": "4409"
+        },
+        "Neuchâtel": {
+            "percentuale": "3.800",
+            "jeunes": "716",
+            "absolu": "4694"
+        },
+        "Jura": {
+            "percentuale": "3.200",
+            "jeunes": "228",
+            "absolu": "1341"
+        },
+        "Tessin": {
+            "percentuale": "3.400",
+            "jeunes": "950",
+            "absolu": "6810"
+        }
+    },
+    "2015": {
+        "Berne": {
+            "percentuale": "2.100",
+            "jeunes": "2036",
+            "absolu": "14116"
+        },
+        "Soleure": {
+            "percentuale": "2.300",
+            "jeunes": "663",
+            "absolu": "3844"
+        },
+        "Bäle-Ville": {
+            "percentuale": "2.900",
+            "jeunes": "418",
+            "absolu": "3620"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.300",
+            "jeunes": "475",
+            "absolu": "4064"
+        },
+        "Argovie": {
+            "percentuale": "2.600",
+            "jeunes": "1483",
+            "absolu": "10874"
+        },
+        "Zurich": {
+            "percentuale": "2.900",
+            "jeunes": "3524",
+            "absolu": "27985"
+        },
+        "Glaris": {
+            "percentuale": "2.000",
+            "jeunes": "76",
+            "absolu": "483"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.400",
+            "jeunes": "231",
+            "absolu": "1404"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.700",
+            "jeunes": "74",
+            "absolu": "570"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.200",
+            "jeunes": "16",
+            "absolu": "93"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.100",
+            "jeunes": "1102",
+            "absolu": "6517"
+        },
+        "Grisons": {
+            "percentuale": "1.400",
+            "jeunes": "252",
+            "absolu": "1940"
+        },
+        "Thurgovie": {
+            "percentuale": "2.100",
+            "jeunes": "612",
+            "absolu": "3603"
+        },
+        "Lucerne": {
+            "percentuale": "1.600",
+            "jeunes": "720",
+            "absolu": "4383"
+        },
+        "Uri": {
+            "percentuale": "0.900",
+            "jeunes": "28",
+            "absolu": "200"
+        },
+        "Schwytz": {
+            "percentuale": "1.700",
+            "jeunes": "171",
+            "absolu": "1388"
+        },
+        "Obwald": {
+            "percentuale": "0.800",
+            "jeunes": "29",
+            "absolu": "188"
+        },
+        "Nidwald": {
+            "percentuale": "1.100",
+            "jeunes": "35",
+            "absolu": "256"
+        },
+        "Zoug": {
+            "percentuale": "2.100",
+            "jeunes": "143",
+            "absolu": "1498"
+        },
+        "Vaud": {
+            "percentuale": "3.800",
+            "jeunes": "2032",
+            "absolu": "18566"
+        },
+        "Valais": {
+            "percentuale": "3.200",
+            "jeunes": "1010",
+            "absolu": "7028"
+        },
+        "Genève": {
+            "percentuale": "4.000",
+            "jeunes": "1177",
+            "absolu": "13019"
+        },
+        "Fribourg": {
+            "percentuale": "2.400",
+            "jeunes": "625",
+            "absolu": "4597"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.200",
+            "jeunes": "710",
+            "absolu": "4913"
+        },
+        "Jura": {
+            "percentuale": "3.500",
+            "jeunes": "249",
+            "absolu": "1485"
+        },
+        "Tessin": {
+            "percentuale": "3.200",
+            "jeunes": "883",
+            "absolu": "6175"
+        }
+    },
+    "2016": {
+        "Berne": {
+            "percentuale": "2.400",
+            "jeunes": "2111",
+            "absolu": "15283"
+        },
+        "Soleure": {
+            "percentuale": "2.600",
+            "jeunes": "648",
+            "absolu": "4315"
+        },
+        "Bäle-Ville": {
+            "percentuale": "3.100",
+            "jeunes": "414",
+            "absolu": "3832"
+        },
+        "Bäle-Campagne": {
+            "percentuale": "2.600",
+            "jeunes": "518",
+            "absolu": "4445"
+        },
+        "Argovie": {
+            "percentuale": "2.800",
+            "jeunes": "1527",
+            "absolu": "11484"
+        },
+        "Zurich": {
+            "percentuale": "3.100",
+            "jeunes": "3711",
+            "absolu": "30084"
+        },
+        "Glaris": {
+            "percentuale": "2.300",
+            "jeunes": "83",
+            "absolu": "531"
+        },
+        "Schaffhouse": {
+            "percentuale": "2.600",
+            "jeunes": "217",
+            "absolu": "1438"
+        },
+        "Appenzell Rh.-Ext.": {
+            "percentuale": "1.800",
+            "jeunes": "75",
+            "absolu": "558"
+        },
+        "Appenzell Rh.-Int.": {
+            "percentuale": "1.200",
+            "jeunes": "17",
+            "absolu": "99"
+        },
+        "Saint-Gall": {
+            "percentuale": "2.300",
+            "jeunes": "1064",
+            "absolu": "6976"
+        },
+        "Grisons": {
+            "percentuale": "1.400",
+            "jeunes": "223",
+            "absolu": "1885"
+        },
+        "Thurgovie": {
+            "percentuale": "2.300",
+            "jeunes": "599",
+            "absolu": "3794"
+        },
+        "Lucerne": {
+            "percentuale": "1.800",
+            "jeunes": "758",
+            "absolu": "4602"
+        },
+        "Uri": {
+            "percentuale": "1.000",
+            "jeunes": "27",
+            "absolu": "202"
+        },
+        "Schwytz": {
+            "percentuale": "2.000",
+            "jeunes": "178",
+            "absolu": "1537"
+        },
+        "Obwald": {
+            "percentuale": "1.000",
+            "jeunes": "32",
+            "absolu": "213"
+        },
+        "Nidwald": {
+            "percentuale": "1.300",
+            "jeunes": "35",
+            "absolu": "278"
+        },
+        "Zoug": {
+            "percentuale": "2.300",
+            "jeunes": "153",
+            "absolu": "1603"
+        },
+        "Vaud": {
+            "percentuale": "3.900",
+            "jeunes": "1975",
+            "absolu": "18741"
+        },
+        "Valais": {
+            "percentuale": "3.400",
+            "jeunes": "940",
+            "absolu": "6873"
+        },
+        "Genève": {
+            "percentuale": "4.100",
+            "jeunes": "1067",
+            "absolu": "12965"
+        },
+        "Fribourg": {
+            "percentuale": "2.500",
+            "jeunes": "615",
+            "absolu": "4644"
+        },
+        "Neuchâtel": {
+            "percentuale": "4.700",
+            "jeunes": "756",
+            "absolu": "5365"
+        },
+        "Jura": {
+            "percentuale": "4.000",
+            "jeunes": "290",
+            "absolu": "1695"
+        },
+        "Tessin": {
+            "percentuale": "3.200",
+            "jeunes": "799",
+            "absolu": "5877"
+        }
+    }
+}

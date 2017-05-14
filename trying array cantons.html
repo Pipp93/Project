@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Utilisation des données json</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <h1>Gatti</h1>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script>
+
+
+
+        gatto=[
+                   values_1993=[],
+                   values_1994=[],
+                   values_1995=[],
+                   values_1996=[],
+                   values_1997=[],
+                   values_1998=[],
+                   values_1999=[],
+                   values_2000=[],
+                   values_2001=[],
+                   values_2002=[],
+                   values_2003=[],
+                   values_2004=[],
+                   values_2005=[],
+                   values_2006=[],
+                   values_2007=[],
+                   values_2008=[],
+                   values_2009=[],
+                   values_2010=[],
+                   values_2011=[],
+                   values_2012=[],
+                   values_2013=[],
+                   values_2014=[],
+                   values_2015=[],
+                   values_2016=[]
+                 ]
+
+                 gatto_jeunes=[
+                 values_1993_jeunes=[],
+                 values_1994_jeunes=[],
+                 values_1995_jeunes=[],
+                 values_1996_jeunes=[],
+                 values_1997_jeunes=[],
+                 values_1998_jeunes=[],
+                 values_1999_jeunes=[],
+                 values_2000_jeunes=[],
+                 values_2001_jeunes=[],
+                 values_2002_jeunes=[],
+                 values_2003_jeunes=[],
+                 values_2004_jeunes=[],
+                 values_2005_jeunes=[],
+                 values_2006_jeunes=[],
+                 values_2007_jeunes=[],
+                 values_2008_jeunes=[],
+                 values_2009_jeunes=[],
+                 values_2010_jeunes=[],
+                 values_2011_jeunes=[],
+                 values_2012_jeunes=[],
+                 values_2013_jeunes=[],
+                 values_2014_jeunes=[],
+                 values_2015_jeunes=[],
+                 values_2016_jeunes=[]
+               ]
+
+               gatto_absolu=[
+               values_1993_absolu=[],
+               values_1994_absolu=[],
+               values_1995_absolu=[],
+               values_1996_absolu=[],
+               values_1997_absolu=[],
+               values_1998_absolu=[],
+               values_1999_absolu=[],
+               values_2000_absolu=[],
+               values_2001_absolu=[],
+               values_2002_absolu=[],
+               values_2003_absolu=[],
+               values_2004_absolu=[],
+               values_2005_absolu=[],
+               values_2006_absolu=[],
+               values_2007_absolu=[],
+               values_2008_absolu=[],
+               values_2009_absolu=[],
+               values_2010_absolu=[],
+               values_2011_absolu=[],
+               values_2012_absolu=[],
+               values_2013_absolu=[],
+               values_2014_absolu=[],
+               values_2015_absolu=[],
+               values_2016_absolu=[]
+             ]
+
+                   var cantons = [
+                       {name:'Berne'},
+                       {name:'Soleure'},
+                       {name:'Bäle-Ville'},
+                       {name:'Bäle-Campagne'},
+                       {name:'Argovie'},
+                       {name:'Zurich'},
+                       {name:'Glaris'},
+                       {name:'Schaffhouse'},
+                       {name:'Appenzell Rh.-Ext.'},
+                       {name:'Appenzell Rh.-Int.'},
+                       {name:'Saint-Gall'},
+                       {name:'Grisons'},
+                       {name:'Thurgovie'},
+                       {name:'Lucerne'},
+                       {name:'Uri'},
+                       {name:'Schwytz'},
+                       {name:'Obwald'},
+                       {name:'Nidwald'},
+                       {name:'Zoug'},
+                       {name:'Vaud'},
+                       {name:'Valais'},
+                       {name:'Genève'},
+                       {name:'Fribourg'},
+                       {name:'Neuchâtel'},
+                       {name:'Jura'},
+                       {name:'Tessin'},
+                   ]
+
+                   d3.json('chomage.json', function (err,data) {
+                       if(err) throw err;
+
+                       cantons.forEach(function(canton){
+                           for(prop in data[1993]) {
+                               if(prop == canton.name) {
+                                   canton.chomage = data[1993][prop]
+
+                                   var myArray93 = [];
+                                   myArray93.push({name:prop,values:data[1993][prop]})
+                                   var myArray94 = [];
+                                   myArray94.push({name:prop,values:data[1994][prop]})
+                                   var myArray95 = [];
+                                   myArray95.push({name:prop,values:data[1995][prop]})
+                                   var myArray96 = [];
+                                   myArray96.push({name:prop,values:data[1996][prop]})
+                                   var myArray97 = [];
+                                   myArray97.push({name:prop,values:data[1997][prop]})
+                                   var myArray98 = [];
+                                   myArray98.push({name:prop,values:data[1998][prop]})
+                                   var myArray99 = [];
+                                   myArray99.push({name:prop,values:data[1999][prop]})
+                                   var myArray00 = [];
+                                   myArray00.push({name:prop,values:data[2000][prop]})
+                                   var myArray01 = [];
+                                   myArray01.push({name:prop,values:data[2001][prop]})
+                                   var myArray02 = [];
+                                   myArray02.push({name:prop,values:data[2002][prop]})
+                                   var myArray03 = [];
+                                   myArray03.push({name:prop,values:data[2003][prop]})
+                                   var myArray04 = [];
+                                   myArray04.push({name:prop,values:data[2004][prop]})
+                                   var myArray05 = [];
+                                   myArray05.push({name:prop,values:data[2005][prop]})
+                                   var myArray06 = [];
+                                   myArray06.push({name:prop,values:data[2006][prop]})
+                                   var myArray07 = [];
+                                   myArray07.push({name:prop,values:data[2007][prop]})
+                                   var myArray08 = [];
+                                   myArray08.push({name:prop,values:data[2008][prop]})
+                                   var myArray09 = [];
+                                   myArray09.push({name:prop,values:data[2009][prop]})
+                                   var myArray10 = [];
+                                   myArray10.push({name:prop,values:data[2010][prop]})
+                                   var myArray11 = [];
+                                   myArray11.push({name:prop,values:data[2011][prop]})
+                                   var myArray12 = [];
+                                   myArray12.push({name:prop,values:data[2012][prop]})
+                                   var myArray13 = [];
+                                   myArray13.push({name:prop,values:data[2013][prop]})
+                                   var myArray14 = [];
+                                   myArray14.push({name:prop,values:data[2014][prop]})
+                                   var myArray15 = [];
+                                   myArray15.push({name:prop,values:data[2015][prop]})
+                                   var myArray16 = [];
+                                   myArray16.push({name:prop,values:data[2016][prop]})
+
+                                 }
+
+
+                               }
+
+                           values_1993_absolu.push(parseFloat(myArray93[0].values.absolu))
+                           values_1994_absolu.push(parseFloat(myArray94[0].values.absolu))
+                           values_1995_absolu.push(parseFloat(myArray95[0].values.absolu))
+                           values_1996_absolu.push(parseFloat(myArray96[0].values.absolu))
+                           values_1997_absolu.push(parseFloat(myArray97[0].values.absolu))
+                           values_1998_absolu.push(parseFloat(myArray98[0].values.absolu))
+                           values_1999_absolu.push(parseFloat(myArray99[0].values.absolu))
+                           values_2000_absolu.push(parseFloat(myArray00[0].values.absolu))
+                           values_2001_absolu.push(parseFloat(myArray01[0].values.absolu))
+                           values_2002_absolu.push(parseFloat(myArray02[0].values.absolu))
+                           values_2003_absolu.push(parseFloat(myArray03[0].values.absolu))
+                           values_2004_absolu.push(parseFloat(myArray04[0].values.absolu))
+                           values_2005_absolu.push(parseFloat(myArray05[0].values.absolu))
+                           values_2006_absolu.push(parseFloat(myArray06[0].values.absolu))
+                           values_2007_absolu.push(parseFloat(myArray07[0].values.absolu))
+                           values_2008_absolu.push(parseFloat(myArray08[0].values.absolu))
+                           values_2009_absolu.push(parseFloat(myArray09[0].values.absolu))
+                           values_2010_absolu.push(parseFloat(myArray10[0].values.absolu))
+                           values_2011_absolu.push(parseFloat(myArray11[0].values.absolu))
+                           values_2012_absolu.push(parseFloat(myArray12[0].values.absolu))
+                           values_2013_absolu.push(parseFloat(myArray13[0].values.absolu))
+                           values_2014_absolu.push(parseFloat(myArray14[0].values.absolu))
+                           values_2015_absolu.push(parseFloat(myArray15[0].values.absolu))
+                           values_2016_absolu.push(parseFloat(myArray16[0].values.absolu))
+
+                           values_1993_jeunes.push(parseFloat(myArray93[0].values.jeunes))
+                           values_1994_jeunes.push(parseFloat(myArray94[0].values.jeunes))
+                           values_1995_jeunes.push(parseFloat(myArray95[0].values.jeunes))
+                           values_1996_jeunes.push(parseFloat(myArray96[0].values.jeunes))
+                           values_1997_jeunes.push(parseFloat(myArray97[0].values.jeunes))
+                           values_1998_jeunes.push(parseFloat(myArray98[0].values.jeunes))
+                           values_1999_jeunes.push(parseFloat(myArray99[0].values.jeunes))
+                           values_2000_jeunes.push(parseFloat(myArray00[0].values.jeunes))
+                           values_2001_jeunes.push(parseFloat(myArray01[0].values.jeunes))
+                           values_2002_jeunes.push(parseFloat(myArray02[0].values.jeunes))
+                           values_2003_jeunes.push(parseFloat(myArray03[0].values.jeunes))
+                           values_2004_jeunes.push(parseFloat(myArray04[0].values.jeunes))
+                           values_2005_jeunes.push(parseFloat(myArray05[0].values.jeunes))
+                           values_2006_jeunes.push(parseFloat(myArray06[0].values.jeunes))
+                           values_2007_jeunes.push(parseFloat(myArray07[0].values.jeunes))
+                           values_2008_jeunes.push(parseFloat(myArray08[0].values.jeunes))
+                           values_2009_jeunes.push(parseFloat(myArray09[0].values.jeunes))
+                           values_2010_jeunes.push(parseFloat(myArray10[0].values.jeunes))
+                           values_2011_jeunes.push(parseFloat(myArray11[0].values.jeunes))
+                           values_2012_jeunes.push(parseFloat(myArray12[0].values.jeunes))
+                           values_2013_jeunes.push(parseFloat(myArray13[0].values.jeunes))
+                           values_2014_jeunes.push(parseFloat(myArray14[0].values.jeunes))
+                           values_2015_jeunes.push(parseFloat(myArray15[0].values.jeunes))
+                           values_2016_jeunes.push(parseFloat(myArray16[0].values.jeunes))
+
+                           values_1993.push(parseFloat(myArray93[0].values.percentuale))
+                           values_1994.push(parseFloat(myArray94[0].values.percentuale))
+                           values_1995.push(parseFloat(myArray95[0].values.percentuale))
+                           values_1996.push(parseFloat(myArray96[0].values.percentuale))
+                           values_1997.push(parseFloat(myArray97[0].values.percentuale))
+                           values_1998.push(parseFloat(myArray98[0].values.percentuale))
+                           values_1999.push(parseFloat(myArray99[0].values.percentuale))
+                           values_2000.push(parseFloat(myArray00[0].values.percentuale))
+                           values_2001.push(parseFloat(myArray01[0].values.percentuale))
+                           values_2002.push(parseFloat(myArray02[0].values.percentuale))
+                           values_2003.push(parseFloat(myArray03[0].values.percentuale))
+                           values_2004.push(parseFloat(myArray04[0].values.percentuale))
+                           values_2005.push(parseFloat(myArray05[0].values.percentuale))
+                           values_2006.push(parseFloat(myArray06[0].values.percentuale))
+                           values_2007.push(parseFloat(myArray07[0].values.percentuale))
+                           values_2008.push(parseFloat(myArray08[0].values.percentuale))
+                           values_2009.push(parseFloat(myArray09[0].values.percentuale))
+                           values_2010.push(parseFloat(myArray10[0].values.percentuale))
+                           values_2011.push(parseFloat(myArray11[0].values.percentuale))
+                           values_2012.push(parseFloat(myArray12[0].values.percentuale))
+                           values_2013.push(parseFloat(myArray13[0].values.percentuale))
+                           values_2014.push(parseFloat(myArray14[0].values.percentuale))
+                           values_2015.push(parseFloat(myArray15[0].values.percentuale))
+                           values_2016.push(parseFloat(myArray16[0].values.percentuale))
+
+                       })
+
+
+
+
+
+                       function transpose(a) {
+                           return Object.keys(a[0]).map(function (c) {
+                               return a.map(function (r) {
+                                   return r[c];
+                               });
+                           });
+                       }
+                       multiArray_Jeunes= transpose(gatto_jeunes)
+                       multiArray_Absolu=transpose(gatto_absolu)
+                       //transpose(gatto_absolu)
+                       //console.log(a)
+                       console.log(multiArray_Jeunes)
+                       console.log(multiArray_Absolu)
+                       console.log(gatto)
+
+                       //console.log(gatto_absolu)
+                       //console.log(gatto_jeunes)
+
+//var g=gatto_jeunes[3][3]+gatto_absolu[4][8]
+//console.log(g)
+//console.log(typeof(g))
+
+                 })
+//for (q=0;q<24;q++){
+//console.log(gatto_jeunes[q])
+//}
+
+        </script>
+    </body>
+</html>
